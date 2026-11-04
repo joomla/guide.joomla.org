@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="module" client="site" method="upgrade">
+	<name>mod_playgroundtour</name>
+	<author>Joomla! Project</author>
+	<creationDate>2026-11</creationDate>
+	<copyright>(C) 2026 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>1.0.0</version>
+	<description>MOD_PLAYGROUNDTOUR_XML_DESCRIPTION</description>
+	<namespace path="src">Joomla\Module\PlaygroundTour</namespace>
+	<files>
+		<folder module="mod_playgroundtour">services</folder>
+		<folder>src</folder>
+		<folder>tmpl</folder>
+		<file>tours.json</file>
+	</files>
+	<media destination="mod_playgroundtour" folder="media">
+		<file>joomla.asset.json</file>
+		<folder>css</folder>
+		<folder>js</folder>
+		<folder>images</folder>
+	</media>
+	<languages>
+		<language tag="en-GB">language/en-GB/mod_playgroundtour.ini</language>
+		<language tag="de-DE">language/de-DE/mod_playgroundtour.ini</language>
+		<language tag="es-ES">language/es-ES/mod_playgroundtour.ini</language>
+		<language tag="fr-FR">language/fr-FR/mod_playgroundtour.ini</language>
+		<language tag="it-IT">language/it-IT/mod_playgroundtour.ini</language>
+		<language tag="nl-NL">language/nl-NL/mod_playgroundtour.ini</language>
+		<language tag="pt-PT">language/pt-PT/mod_playgroundtour.ini</language>
+		<language tag="pt-BR">language/pt-BR/mod_playgroundtour.ini</language>
+		<language tag="en-GB">language/en-GB/mod_playgroundtour.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field
+					name="tour"
+					type="list"
+					label="MOD_PLAYGROUNDTOUR_FIELD_TOUR_LABEL"
+					description="MOD_PLAYGROUNDTOUR_FIELD_TOUR_DESC"
+					default="auto"
+					validate="options"
+					>
+					<option value="auto">MOD_PLAYGROUNDTOUR_FIELD_TOUR_AUTO</option>
+					<option value="create-article-and-menu-item">2.1 Creating an Article and Menu Item</option>
+					<option value="category">2.2 Creating a Category and Sub-Category</option>
+					<option value="category-menu-item">2.3 Menu items for a Category of Articles</option>
+					<option value="featured-articles">2.4 Featuring Articles on the Homepage</option>
+					<option value="save-to-menu">2.5 Save to Menu</option>
+					<option value="bold-italic-and-more">3.1 Bold, Italic and More</option>
+					<option value="headings">3.2 Headings</option>
+					<option value="lists">3.3 Lists</option>
+					<option value="links">3.4 Links</option>
+					<option value="tables">3.5 Tables</option>
+					<option value="embedding-images-in-article-text">4.1 Embedding Images in Article Text</option>
+					<option value="managing-media">4.2 Managing Media</option>
+					<option value="intro-image-full-article-image">4.3 Intro and Full Article Images</option>
+					<option value="filter-articles">5.1 Filter Articles List on Properties</option>
+					<option value="delete-articles">5.2 Delete Articles from the Articles List</option>
+					<option value="archive-articles">5.3 Archive Articles</option>
+					<option value="pagination">6.1 Pagination</option>
+					<option value="read-more">6.2 Read More</option>
+					<option value="publishing-articles-and-categories">7.1 Publishing Articles and Categories</option>
+					<option value="publishing-menu-items">7.2 Publishing Menu Items</option>
+					<option value="timed-publishing">7.3 Timed Publishing</option>
+					<option value="view-access-restrictions">7.4 Restrict Access to Articles</option>
+					<option value="locking-an-article">7.5 Locking an Article</option>
+					<option value="article-permissions">7.6 Edit Permissions for Articles</option>
+					<option value="sef-urls">8.1 SEF URLs</option>
+					<option value="article-urls">8.2 Different URLs for Content</option>
+					<option value="custom-module">9.1 Custom Module</option>
+					<option value="menu-item-modules">9.2 Module Display by Menu Item</option>
+					<option value="submenus">10.1 Submenus</option>
+					<option value="split-menus">10.2 Split Menus</option>
+					<option value="display-options-hierarchy-article-category-menu-item">10.3 Article Display Options Hierarchy</option>
+					<option value="adding-a-new-menu">10.4 Adding a New Menu</option>
+					<option value="content-tags">11.1 Content Tags</option>
+					<option value="article-metadata">12.1 Article Metadata</option>
+					<option value="multilingual-site-add-a-language">Multilingual Site: Add a Language</option>
+				</field>
+				<field
+					name="display"
+					type="list"
+					label="MOD_PLAYGROUNDTOUR_FIELD_DISPLAY_LABEL"
+					default="poster"
+					validate="options"
+					>
+					<option value="poster">MOD_PLAYGROUNDTOUR_FIELD_DISPLAY_POSTER</option>
+					<option value="button">MOD_PLAYGROUNDTOUR_FIELD_DISPLAY_BUTTON</option>
+				</field>
+				<field
+					name="playground"
+					type="url"
+					label="MOD_PLAYGROUNDTOUR_FIELD_PLAYGROUND_LABEL"
+					description="MOD_PLAYGROUNDTOUR_FIELD_PLAYGROUND_DESC"
+					default="https://joomla-projects.github.io/joomla-playground/"
+					filter="url"
+					validate="url"
+				/>
+				<field
+					name="blueprints"
+					type="text"
+					label="MOD_PLAYGROUNDTOUR_FIELD_BLUEPRINTS_LABEL"
+					description="MOD_PLAYGROUNDTOUR_FIELD_BLUEPRINTS_DESC"
+					default="blueprints/tours"
+				/>
+			</fieldset>
+			<fieldset name="advanced">
+				<field
+					name="layout"
+					type="modulelayout"
+					label="JFIELD_ALT_LAYOUT_LABEL"
+					class="form-select"
+					validate="moduleLayout"
+				/>
+				<field
+					name="moduleclass_sfx"
+					type="textarea"
+					label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+					rows="3"
+					validate="CssIdentifier"
+				/>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

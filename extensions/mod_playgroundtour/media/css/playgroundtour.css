@@ -1,0 +1,195 @@
+.mod-playgroundtour {
+  --playgroundtour-blue: #1c3d5c;
+  --playgroundtour-accent: #f9a541;
+  margin-block: 1rem;
+}
+
+.mod-playgroundtour__poster {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 48rem;
+  aspect-ratio: 16 / 10;
+  padding: 0;
+  overflow: hidden;
+  color: #fff;
+  text-align: start;
+  cursor: pointer;
+  background: var(--playgroundtour-blue);
+  border: 1px solid #dfe3e7;
+  border-radius: .5rem;
+  box-shadow: 0 .25rem 1rem rgba(0, 0, 0, .15);
+}
+
+.mod-playgroundtour__poster img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top left;
+  transition: transform .3s, filter .3s;
+}
+
+.mod-playgroundtour__poster:hover img,
+.mod-playgroundtour__poster:focus-visible img {
+  filter: brightness(.85);
+  transform: scale(1.02);
+}
+
+.mod-playgroundtour__poster:focus-visible {
+  outline: 3px solid var(--playgroundtour-accent);
+  outline-offset: 2px;
+}
+
+/* Without a screenshot: a tour popup on the administrator's colours. */
+.mod-playgroundtour__card {
+  position: absolute;
+  inset: 18% 22% auto;
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
+  padding: 1rem 1.25rem;
+  color: #22262a;
+  background: #fff;
+  border-radius: .375rem;
+  box-shadow: 0 .5rem 2rem rgba(0, 0, 0, .35);
+}
+
+.mod-playgroundtour__card-title {
+  font-weight: 700;
+}
+
+.mod-playgroundtour__card-steps {
+  align-self: flex-end;
+  font-size: .875rem;
+  color: #6c757d;
+}
+
+.mod-playgroundtour__play {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  width: 5rem;
+  height: 5rem;
+  background: rgba(28, 61, 92, .85);
+  border: 3px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 .25rem 1rem rgba(0, 0, 0, .4);
+  transform: translate(-50%, -50%);
+  transition: transform .3s, background-color .3s;
+}
+
+.mod-playgroundtour__play::after {
+  position: absolute;
+  inset: 50% auto auto 54%;
+  content: "";
+  border-block: .9rem solid transparent;
+  border-inline-start: 1.5rem solid #fff;
+  transform: translate(-50%, -50%);
+}
+
+.mod-playgroundtour__poster:hover .mod-playgroundtour__play,
+.mod-playgroundtour__poster:focus-visible .mod-playgroundtour__play {
+  background: var(--playgroundtour-accent);
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.mod-playgroundtour__caption {
+  position: absolute;
+  inset: auto 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: .125rem;
+  padding: 2.5rem 1rem .75rem;
+  background: linear-gradient(transparent, rgba(0, 0, 0, .75));
+}
+
+.mod-playgroundtour__caption strong {
+  font-size: 1.125rem;
+}
+
+.mod-playgroundtour__note {
+  max-width: 48rem;
+  margin-block: .5rem 0;
+  font-size: .875rem;
+  color: #6c757d;
+}
+
+.mod-playgroundtour__button {
+  display: inline-flex;
+  gap: .5rem;
+  align-items: center;
+}
+
+.mod-playgroundtour__icon {
+  width: 0;
+  height: 0;
+  border-block: .45em solid transparent;
+  border-inline-start: .75em solid currentcolor;
+}
+
+/* Almost the whole page. */
+.mod-playgroundtour__dialog {
+  width: 96vw;
+  max-width: none;
+  height: 94vh;
+  max-height: none;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: .5rem;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, .5);
+}
+
+.mod-playgroundtour__dialog[open] {
+  display: flex;
+  flex-direction: column;
+}
+
+.mod-playgroundtour__dialog::backdrop {
+  background: rgba(0, 0, 0, .6);
+}
+
+.mod-playgroundtour__bar {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: .375rem .375rem .375rem 1rem;
+  color: #fff;
+  background: var(--playgroundtour-blue);
+}
+
+.mod-playgroundtour__title {
+  flex: 1;
+  overflow: hidden;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mod-playgroundtour__bar a {
+  color: #fff;
+}
+
+.mod-playgroundtour__close {
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #fff;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  border-radius: .25rem;
+}
+
+.mod-playgroundtour__close:hover,
+.mod-playgroundtour__close:focus-visible {
+  background: rgba(255, 255, 255, .2);
+}
+
+.mod-playgroundtour__dialog iframe {
+  flex: 1;
+  width: 100%;
+  border: 0;
+}

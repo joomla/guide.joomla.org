@@ -1,0 +1,1715 @@
+{
+  "create-article-and-menu-item": {
+    "number": "2.1",
+    "title": "2.1 Creating an Article and Menu Item",
+    "paths": [
+      "/tutorials/content-management/content-management-first-steps/create-an-article-and-menu-item",
+      "/de/tutorials/inhaltsverwaltung/2-erste-schritte/2-1-beitrag-menueeintrag",
+      "/es/tutoriales/gestion-de-contenido/2-primeros-pasos/2-1-articulo-y-elemento-del-menu",
+      "/fa/amwzsh-ha/mdyryt-mtlb/2-awlyn-mrahl/2-1-mtlb-w-aytm-mnw",
+      "/fr/tutoriels/gestion-des-contenus/2-premiers-pas/2-1-article-et-lien-de-menu",
+      "/it/tutorial-it-it/gestione-contenuti/2-primi-passi/2-1-articolo-e-voce-di-menu",
+      "/nl/zelfstudies/inhoudsbeheer/2-eerste-stappen/2-1-artikel-menu-item",
+      "/pt/tutoriais/gestao-de-conteudos/2-primeiros-passos/2-1-artigo-e-item-de-menu",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/2-primeiros-passos/2-1-artigo-e-item-dos-menus",
+      "/ru/rukovodstva/upravlenie-kontentom/2-pervye-shagi/2-1-material-i-punkt-menyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Create an Article and a Menu Item",
+        "steps": 16
+      },
+      "de": {
+        "title": "Einen Beitrag und einen Menüeintrag erstellen",
+        "steps": 16
+      },
+      "es": {
+        "title": "Crear un artículo y un elemento de menú",
+        "steps": 16
+      },
+      "fr": {
+        "title": "Créer un article et un lien de menu",
+        "steps": 16
+      },
+      "it": {
+        "title": "Creare un articolo e una voce di menu",
+        "steps": 16
+      },
+      "nl": {
+        "title": "Een artikel en een menu-item maken",
+        "steps": 16
+      },
+      "pt": {
+        "title": "Criar um artigo e um item de menu",
+        "steps": 16
+      },
+      "pt-br": {
+        "title": "Criar um artigo e um item de menu",
+        "steps": 16
+      }
+    }
+  },
+  "category": {
+    "number": "2.2",
+    "title": "2.2 Creating a Category and Sub-Category",
+    "paths": [
+      "/tutorials/content-management/content-management-first-steps/category",
+      "/de/tutorials/inhaltsverwaltung/2-erste-schritte/2-2-eine-kategorie-erstellen",
+      "/es/tutoriales/gestion-de-contenido/2-primeros-pasos/2-2-crear-una-categoria",
+      "/fa/amwzsh-ha/mdyryt-mtlb/2-awlyn-mrahl/2-2-ayjad-yk-mjmw-h",
+      "/fr/tutoriels/gestion-des-contenus/2-premiers-pas/2-2-ajouter-une-categorie",
+      "/it/tutorial-it-it/gestione-contenuti/2-primi-passi/2-2-creare-una-categoria",
+      "/nl/zelfstudies/inhoudsbeheer/2-eerste-stappen/2-2-een-categorie-maken",
+      "/pt/tutoriais/gestao-de-conteudos/2-primeiros-passos/2-2-criar-uma-categoria",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/2-primeiros-passos/2-2-criando-uma-categoria",
+      "/ru/rukovodstva/upravlenie-kontentom/2-pervye-shagi/2-2-upravleniya-kategoriej"
+    ],
+    "languages": {
+      "en": {
+        "title": "Create a Category and Sub-Categories",
+        "steps": 29
+      },
+      "de": {
+        "title": "Eine Kategorie und Unterkategorien erstellen",
+        "steps": 29
+      },
+      "es": {
+        "title": "Crear una categoría y subcategorías",
+        "steps": 29
+      },
+      "fr": {
+        "title": "Créer une catégorie et des sous-catégories",
+        "steps": 29
+      },
+      "it": {
+        "title": "Creare una categoria e delle sotto-categorie",
+        "steps": 29
+      },
+      "nl": {
+        "title": "Een categorie en sub-categorieën maken",
+        "steps": 29
+      },
+      "pt": {
+        "title": "Criar uma categoria e subcategorias",
+        "steps": 29
+      },
+      "pt-br": {
+        "title": "Criar uma categoria e subcategorias",
+        "steps": 29
+      }
+    }
+  },
+  "category-menu-item": {
+    "number": "2.3",
+    "title": "2.3 Menu items for a Category of Articles",
+    "paths": [
+      "/tutorials/content-management/content-management-first-steps/category-menu-item",
+      "/de/tutorials/inhaltsverwaltung/2-erste-schritte/2-3-kategorie-menueeintrag",
+      "/es/tutoriales/gestion-de-contenido/2-primeros-pasos/2-3-elemento-del-menu-de-categoria",
+      "/fa/amwzsh-ha/mdyryt-mtlb/2-awlyn-mrahl/2-3-aytm-mnwy-mjmw-h",
+      "/fr/tutoriels/gestion-des-contenus/2-premiers-pas/2-3-lien-de-menu-de-categorie",
+      "/it/tutorial-it-it/gestione-contenuti/2-primi-passi/2-3-voce-di-menu-categoria",
+      "/nl/zelfstudies/inhoudsbeheer/2-eerste-stappen/2-3-categoriemenu-item",
+      "/pt/tutoriais/gestao-de-conteudos/2-primeiros-passos/2-3-item-de-menu-categoria",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/2-primeiros-passos/2-3-item-de-menu-categoria",
+      "/ru/rukovodstva/upravlenie-kontentom/2-pervye-shagi/2-3-punkt-menyu-kategorii"
+    ],
+    "languages": {
+      "en": {
+        "title": "Menu Items for a Category of Articles",
+        "steps": 14
+      },
+      "de": {
+        "title": "Menüeinträge für eine Kategorie von Beiträgen",
+        "steps": 14
+      },
+      "es": {
+        "title": "Elementos del menú para una categoría de artículos",
+        "steps": 14
+      },
+      "fr": {
+        "title": "Liens de menu pour une catégorie d'articles",
+        "steps": 14
+      },
+      "it": {
+        "title": "Voci di menu per una categoria di articoli",
+        "steps": 14
+      },
+      "nl": {
+        "title": "Menu-items voor een categorie van artikelen",
+        "steps": 14
+      },
+      "pt": {
+        "title": "Itens de menu para uma categoria de artigos",
+        "steps": 14
+      },
+      "pt-br": {
+        "title": "Itens de menu para uma categoria de artigos",
+        "steps": 14
+      }
+    }
+  },
+  "featured-articles": {
+    "number": "2.4",
+    "title": "2.4 Featuring Articles on the Homepage",
+    "paths": [
+      "/tutorials/content-management/content-management-first-steps/featured-articles",
+      "/de/tutorials/inhaltsverwaltung/2-erste-schritte/2-4-hauptbeitraege",
+      "/es/tutoriales/gestion-de-contenido/2-primeros-pasos/2-4-articulos-destacados",
+      "/fa/amwzsh-ha/mdyryt-mtlb/2-awlyn-mrahl/2-4-mqalat-brjsth",
+      "/fr/tutoriels/gestion-des-contenus/2-premiers-pas/2-4-articles-epingles",
+      "/it/tutorial-it-it/gestione-contenuti/2-primi-passi/2-4-articoli-in-evidenza",
+      "/nl/zelfstudies/inhoudsbeheer/2-eerste-stappen/2-4-speciale-artikelen",
+      "/pt/tutoriais/gestao-de-conteudos/2-primeiros-passos/2-4-artigos-em-destaque",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/2-primeiros-passos/2-4-artigos-destacados",
+      "/ru/rukovodstva/upravlenie-kontentom/2-pervye-shagi/2-4-izbrannye-materialy"
+    ],
+    "languages": {
+      "en": {
+        "title": "Feature Articles on the Home Page",
+        "steps": 11
+      },
+      "de": {
+        "title": "Beiträge auf der Startseite hervorheben",
+        "steps": 11
+      },
+      "es": {
+        "title": "Destacar artículos en la página de inicio",
+        "steps": 11
+      },
+      "fr": {
+        "title": "Épingler des articles sur la page d'accueil",
+        "steps": 11
+      },
+      "it": {
+        "title": "Mettere in evidenza articoli nella homepage",
+        "steps": 11
+      },
+      "nl": {
+        "title": "Artikelen uitlichten op de startpagina",
+        "steps": 11
+      },
+      "pt": {
+        "title": "Destacar artigos na página inicial",
+        "steps": 11
+      },
+      "pt-br": {
+        "title": "Destacar artigos na página inicial",
+        "steps": 11
+      }
+    }
+  },
+  "save-to-menu": {
+    "number": "2.5",
+    "title": "2.5 Save to Menu",
+    "paths": [
+      "/tutorials/content-management/content-management-first-steps/save-to-menu",
+      "/de/tutorials/inhaltsverwaltung/2-erste-schritte/2-5-im-menue-speichern",
+      "/es/tutoriales/gestion-de-contenido/2-primeros-pasos/2-5-guardar-en-el-menu",
+      "/fa/amwzsh-ha/mdyryt-mtlb/2-awlyn-mrahl/dhkhyrh-dr-mnw-2-5",
+      "/fr/tutoriels/gestion-des-contenus/2-premiers-pas/2-5-enregistrer-dans-le-menu",
+      "/it/tutorial-it-it/gestione-contenuti/2-primi-passi/2-5-salva-nel-menu",
+      "/nl/zelfstudies/inhoudsbeheer/2-eerste-stappen/2-5-opslaan-in-menu",
+      "/pt/tutoriais/gestao-de-conteudos/2-primeiros-passos/2-5-guardar-no-menu",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/2-primeiros-passos/2-5-salvar-no-menu",
+      "/ru/rukovodstva/upravlenie-kontentom/2-pervye-shagi/2-5-sokhranenie-v-menyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Save to Menu",
+        "steps": 20
+      },
+      "de": {
+        "title": "Im Menü speichern",
+        "steps": 20
+      },
+      "es": {
+        "title": "Guardar en el menú",
+        "steps": 20
+      },
+      "fr": {
+        "title": "Enregistrer dans le menu",
+        "steps": 20
+      },
+      "it": {
+        "title": "Salva nel menu",
+        "steps": 20
+      },
+      "nl": {
+        "title": "Opslaan in menu",
+        "steps": 20
+      },
+      "pt": {
+        "title": "Guardar no menu",
+        "steps": 20
+      },
+      "pt-br": {
+        "title": "Salvar no menu",
+        "steps": 20
+      }
+    }
+  },
+  "bold-italic-and-more": {
+    "number": "3.1",
+    "title": "3.1 Bold, Italic and More",
+    "paths": [
+      "/tutorials/content-management/wysiwyg-editor/bold-italic-and-more",
+      "/de/tutorials/inhaltsverwaltung/3-wysiwyg-editor/3-1-fett-kursiv-mehr",
+      "/es/tutoriales/gestion-de-contenido/3-editor-wysiwyg/3-1-negrita-cursiva-y-mas",
+      "/fa/amwzsh-ha/mdyryt-mtlb/3-wyrayshgr-wysiwyg/3-1-prrng-aytalyk-w-mward-dygr",
+      "/fr/tutoriels/gestion-des-contenus/3-editeur-wysiwyg/3-1-gras-italique-et-plus",
+      "/it/tutorial-it-it/gestione-contenuti/3-editor-wysiwyg/3-1-grassetto-corsivo-e-altro",
+      "/nl/zelfstudies/inhoudsbeheer/3-wysiwyg-tekstverwerker/3-1-vet-cursief-meer",
+      "/pt/tutoriais/gestao-de-conteudos/3-editor-wysiwyg/3-1-negrito-italico-e-mais",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/3-editor-wysiwyg/3-1-negrito-italico-e-mais",
+      "/ru/rukovodstva/upravlenie-kontentom/3-redaktor-wysiwyg/3-1-zhirnyj-kursiv-i-drugoe"
+    ],
+    "languages": {
+      "en": {
+        "title": "Bold, Italic and More",
+        "steps": 12
+      },
+      "de": {
+        "title": "Fett, Kursiv und mehr",
+        "steps": 12
+      },
+      "es": {
+        "title": "Negrita, cursiva y más",
+        "steps": 12
+      },
+      "fr": {
+        "title": "Gras, italique et plus",
+        "steps": 12
+      },
+      "it": {
+        "title": "Grassetto, corsivo e altro",
+        "steps": 12
+      },
+      "nl": {
+        "title": "Vet, cursief en meer",
+        "steps": 12
+      },
+      "pt": {
+        "title": "Negrito, itálico e mais",
+        "steps": 12
+      },
+      "pt-br": {
+        "title": "Negrito, itálico e mais",
+        "steps": 12
+      }
+    }
+  },
+  "headings": {
+    "number": "3.2",
+    "title": "3.2 Headings",
+    "paths": [
+      "/tutorials/content-management/wysiwyg-editor/headings",
+      "/de/tutorials/inhaltsverwaltung/3-wysiwyg-editor/3-2-ueberschriften",
+      "/es/tutoriales/gestion-de-contenido/3-editor-wysiwyg/3-2-encabezados",
+      "/fa/amwzsh-ha/mdyryt-mtlb/3-wyrayshgr-wysiwyg/3-2-nwan-ha",
+      "/fr/tutoriels/gestion-des-contenus/3-editeur-wysiwyg/3-2-titres",
+      "/it/tutorial-it-it/gestione-contenuti/3-editor-wysiwyg/3-2-intestazioni",
+      "/nl/zelfstudies/inhoudsbeheer/3-wysiwyg-tekstverwerker/3-2-kopteksten",
+      "/pt/tutoriais/gestao-de-conteudos/3-editor-wysiwyg/3-2-cabecalhos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/3-editor-wysiwyg/3-2-cabecalhos",
+      "/ru/rukovodstva/upravlenie-kontentom/3-redaktor-wysiwyg/3-2-zagolovki-stolbtsov"
+    ],
+    "languages": {
+      "en": {
+        "title": "Headings",
+        "steps": 14
+      },
+      "de": {
+        "title": "Überschriften",
+        "steps": 14
+      },
+      "es": {
+        "title": "Encabezados",
+        "steps": 14
+      },
+      "fr": {
+        "title": "Titres",
+        "steps": 14
+      },
+      "it": {
+        "title": "Intestazioni",
+        "steps": 14
+      },
+      "nl": {
+        "title": "Kopteksten",
+        "steps": 14
+      },
+      "pt": {
+        "title": "Cabeçalhos",
+        "steps": 14
+      },
+      "pt-br": {
+        "title": "Cabeçalhos",
+        "steps": 14
+      }
+    }
+  },
+  "lists": {
+    "number": "3.3",
+    "title": "3.3 Lists",
+    "paths": [
+      "/tutorials/content-management/wysiwyg-editor/lists",
+      "/de/tutorials/inhaltsverwaltung/3-wysiwyg-editor/3-3-elemente",
+      "/es/tutoriales/gestion-de-contenido/3-editor-wysiwyg/3-3-listas",
+      "/fa/amwzsh-ha/mdyryt-mtlb/3-wyrayshgr-wysiwyg/3-3-lyst-ha",
+      "/fr/tutoriels/gestion-des-contenus/3-editeur-wysiwyg/3-3-listes",
+      "/it/tutorial-it-it/gestione-contenuti/3-editor-wysiwyg/3-3-liste",
+      "/nl/zelfstudies/inhoudsbeheer/3-wysiwyg-tekstverwerker/3-3-lijsten",
+      "/pt/tutoriais/gestao-de-conteudos/3-editor-wysiwyg/3-3-listas",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/3-editor-wysiwyg/3-3-listas",
+      "/ru/rukovodstva/upravlenie-kontentom/3-redaktor-wysiwyg/3-3-spiski-elementov"
+    ],
+    "languages": {
+      "en": {
+        "title": "Lists",
+        "steps": 12
+      },
+      "de": {
+        "title": "Listen",
+        "steps": 12
+      },
+      "es": {
+        "title": "Listas",
+        "steps": 12
+      },
+      "fr": {
+        "title": "Listes",
+        "steps": 12
+      },
+      "it": {
+        "title": "Liste",
+        "steps": 12
+      },
+      "nl": {
+        "title": "Lijsten",
+        "steps": 12
+      },
+      "pt": {
+        "title": "Listas",
+        "steps": 12
+      },
+      "pt-br": {
+        "title": "Listas",
+        "steps": 12
+      }
+    }
+  },
+  "links": {
+    "number": "3.4",
+    "title": "3.4 Links",
+    "paths": [
+      "/tutorials/content-management/wysiwyg-editor/links",
+      "/de/tutorials/inhaltsverwaltung/3-wysiwyg-editor/3-4-links",
+      "/es/tutoriales/gestion-de-contenido/3-editor-wysiwyg/3-4-enlaces",
+      "/fa/amwzsh-ha/mdyryt-mtlb/3-wyrayshgr-wysiwyg/3-4-pywndha",
+      "/fr/tutoriels/gestion-des-contenus/3-editeur-wysiwyg/3-4-liens",
+      "/it/tutorial-it-it/gestione-contenuti/3-editor-wysiwyg/3-4-link",
+      "/nl/zelfstudies/inhoudsbeheer/3-wysiwyg-tekstverwerker/3-4-links",
+      "/pt/tutoriais/gestao-de-conteudos/3-editor-wysiwyg/3-4-hiperligacoes",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/3-editor-wysiwyg/3-4-ligacoes-links",
+      "/ru/rukovodstva/upravlenie-kontentom/3-redaktor-wysiwyg/3-4-perenapravleniya"
+    ],
+    "languages": {
+      "en": {
+        "title": "Links",
+        "steps": 12
+      },
+      "de": {
+        "title": "Links",
+        "steps": 12
+      },
+      "es": {
+        "title": "Enlaces",
+        "steps": 12
+      },
+      "fr": {
+        "title": "Liens",
+        "steps": 12
+      },
+      "it": {
+        "title": "Link",
+        "steps": 12
+      },
+      "nl": {
+        "title": "Links",
+        "steps": 12
+      },
+      "pt": {
+        "title": "Hiperligações",
+        "steps": 12
+      },
+      "pt-br": {
+        "title": "Links",
+        "steps": 12
+      }
+    }
+  },
+  "tables": {
+    "number": "3.5",
+    "title": "3.5 Tables",
+    "paths": [
+      "/tutorials/content-management/wysiwyg-editor/tables",
+      "/de/tutorials/inhaltsverwaltung/3-wysiwyg-editor/3-5-tabellen",
+      "/es/tutoriales/gestion-de-contenido/3-editor-wysiwyg/3-5-tablas",
+      "/fa/amwzsh-ha/mdyryt-mtlb/3-wyrayshgr-wysiwyg/3-5-jdawl",
+      "/fr/tutoriels/gestion-des-contenus/3-editeur-wysiwyg/3-5-tableaux",
+      "/it/tutorial-it-it/gestione-contenuti/3-editor-wysiwyg/3-5-tabelle",
+      "/nl/zelfstudies/inhoudsbeheer/3-wysiwyg-tekstverwerker/3-5-tabellen",
+      "/pt/tutoriais/gestao-de-conteudos/3-editor-wysiwyg/3-5-tabelas",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/3-editor-wysiwyg/3-5-tabelas",
+      "/ru/rukovodstva/upravlenie-kontentom/3-redaktor-wysiwyg/3-5-tablitsy"
+    ],
+    "languages": {
+      "en": {
+        "title": "Tables",
+        "steps": 14
+      },
+      "de": {
+        "title": "Tabellen",
+        "steps": 14
+      },
+      "es": {
+        "title": "Tablas",
+        "steps": 14
+      },
+      "fr": {
+        "title": "Tableaux",
+        "steps": 14
+      },
+      "it": {
+        "title": "Tabelle",
+        "steps": 14
+      },
+      "nl": {
+        "title": "Tabellen",
+        "steps": 14
+      },
+      "pt": {
+        "title": "Tabelas",
+        "steps": 14
+      },
+      "pt-br": {
+        "title": "Tabelas",
+        "steps": 14
+      }
+    }
+  },
+  "embedding-images-in-article-text": {
+    "number": "4.1",
+    "title": "4.1 Embedding Images in Article Text",
+    "paths": [
+      "/tutorials/content-management/content-images/embedding-images-in-article-text",
+      "/de/tutorials/inhaltsverwaltung/4-bilder/4-1-bilder-in-beitraegen",
+      "/es/tutoriales/gestion-de-contenido/4-imagenes/4-1-imagenes-en-articulos",
+      "/fa/amwzsh-ha/mdyryt-mtlb/4-tswyr/4-1-tsawyr-dr-mqalat",
+      "/fr/tutoriels/gestion-des-contenus/4-images/4-1-images-dans-les-articles",
+      "/it/tutorial-it-it/gestione-contenuti/4-immagini/4-1-immagini-negli-articoli",
+      "/nl/zelfstudies/inhoudsbeheer/4-afbeeldingen/4-1-afbeeldingen-in-artikelen",
+      "/pt/tutoriais/gestao-de-conteudos/4-imagens/4-1-imagens-em-artigos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/4-imagens/4-1-imagens-em-artigos",
+      "/ru/rukovodstva/upravlenie-kontentom/4-images/4-1-izobrazheniya-v-materialakh"
+    ],
+    "languages": {
+      "en": {
+        "title": "Embed Images in Article Text",
+        "steps": 21
+      },
+      "de": {
+        "title": "Bilder in Beitragstext einbetten",
+        "steps": 21
+      },
+      "es": {
+        "title": "Insertar imágenes en el texto de un artículo",
+        "steps": 21
+      },
+      "fr": {
+        "title": "Intégrer des images dans le texte d'un article",
+        "steps": 21
+      },
+      "it": {
+        "title": "Incorporare immagini nel testo degli articoli",
+        "steps": 21
+      },
+      "nl": {
+        "title": "Afbeeldingen insluiten in artikeltekst",
+        "steps": 21
+      },
+      "pt": {
+        "title": "Incorporar imagens no texto do artigo",
+        "steps": 21
+      },
+      "pt-br": {
+        "title": "Incorporar imagens no texto do artigo",
+        "steps": 21
+      }
+    }
+  },
+  "managing-media": {
+    "number": "4.2",
+    "title": "4.2 Managing Media",
+    "paths": [
+      "/tutorials/content-management/content-images/managing-media",
+      "/de/tutorials/inhaltsverwaltung/4-bilder/4-2-medien-verwalten",
+      "/es/tutoriales/gestion-de-contenido/4-imagenes/4-2-gestion-de-archivos-multimedia",
+      "/fa/amwzsh-ha/mdyryt-mtlb/4-tswyr/4-2-mdyryt-tswyr",
+      "/fr/tutoriels/gestion-des-contenus/4-images/4-2-gestion-des-medias",
+      "/it/tutorial-it-it/gestione-contenuti/4-immagini/4-2-gestione-dei-media",
+      "/nl/zelfstudies/inhoudsbeheer/4-afbeeldingen/4-2-media-beheren",
+      "/pt/tutoriais/gestao-de-conteudos/4-imagens/4-2-gerir-media",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/4-imagens/4-2-gerenciando-midia",
+      "/ru/rukovodstva/upravlenie-kontentom/4-images/4-2-upravlenie-mediafajlami"
+    ],
+    "languages": {
+      "en": {
+        "title": "Manage Media",
+        "steps": 14
+      },
+      "de": {
+        "title": "Medien verwalten",
+        "steps": 14
+      },
+      "es": {
+        "title": "Gestionar archivos multimedia",
+        "steps": 14
+      },
+      "fr": {
+        "title": "Gérer les médias",
+        "steps": 14
+      },
+      "it": {
+        "title": "Gestire i media",
+        "steps": 14
+      },
+      "nl": {
+        "title": "Media beheren",
+        "steps": 14
+      },
+      "pt": {
+        "title": "Gerir media",
+        "steps": 14
+      },
+      "pt-br": {
+        "title": "Gerenciar mídia",
+        "steps": 14
+      }
+    }
+  },
+  "intro-image-full-article-image": {
+    "number": "4.3",
+    "title": "4.3 Intro and Full Article Images",
+    "paths": [
+      "/tutorials/content-management/content-images/intro-image-full-article-image",
+      "/de/tutorials/inhaltsverwaltung/4-bilder/4-3-einleitungs-und-komplettes-beitragsbild",
+      "/es/tutoriales/gestion-de-contenido/4-imagenes/4-3-imagen-de-introduccion-y-imagen-al-completo-del-articulo",
+      "/fa/amwzsh-ha/mdyryt-mtlb/4-tswyr/4-3-tswyr-m-rfy-w-tswyr-kaml-mtlb",
+      "/fr/tutoriels/gestion-des-contenus/4-images/4-3-image-de-lintroduction-et-image-detail-de-larticle",
+      "/it/tutorial-it-it/gestione-contenuti/4-immagini/4-3-immagine-introduttiva-e-articolo-completo",
+      "/nl/zelfstudies/inhoudsbeheer/4-afbeeldingen/4-3-afbeelding-introtekst-volledig-artikel",
+      "/pt/tutoriais/gestao-de-conteudos/4-imagens/4-3-imagem-introdutoria-e-do-artigo-completo",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/4-imagens/4-3-imagem-da-introducao-e-do-artigo-completo",
+      "/ru/rukovodstva/upravlenie-kontentom/4-images/4-3-izobrazhenie-vvodnogo-teksta-i-polnogo-teksta-materiala"
+    ],
+    "languages": {
+      "en": {
+        "title": "Intro and Full Article Images",
+        "steps": 38
+      },
+      "de": {
+        "title": "Einleitungs- und Beitragsbilder",
+        "steps": 38
+      },
+      "es": {
+        "title": "Imágenes de introducción y del artículo completo",
+        "steps": 38
+      },
+      "fr": {
+        "title": "Images d'introduction et d'article complet",
+        "steps": 38
+      },
+      "it": {
+        "title": "Immagini introduttive e dell'articolo completo",
+        "steps": 38
+      },
+      "nl": {
+        "title": "Intro- en volledige artikelafbeeldingen",
+        "steps": 38
+      },
+      "pt": {
+        "title": "Imagens introdutórias e de artigo completo",
+        "steps": 38
+      },
+      "pt-br": {
+        "title": "Imagem de introdução e imagem de artigo completo",
+        "steps": 38
+      }
+    }
+  },
+  "filter-articles": {
+    "number": "5.1",
+    "title": "5.1 Filter Articles List on Properties",
+    "paths": [
+      "/tutorials/content-management/delete-archive-and-filter-articles/filter-articles",
+      "/de/tutorials/inhaltsverwaltung/5-loeschen-archivieren-und-filtern/5-1-beitraege-filtern",
+      "/es/tutoriales/gestion-de-contenido/5-borrar-archivar-y-filtrar/5-1-filtrar-articulos",
+      "/fa/amwzsh-ha/mdyryt-mtlb/5-hdhf-baygany-w-fyltr/5-1-fyltr-mqalat",
+      "/fr/tutoriels/gestion-des-contenus/5-supprimer-archiver-et-filtrer/5-1-filtrer-les-articles",
+      "/it/tutorial-it-it/gestione-contenuti/5-eliminazione-archivio-e-filtro/5-1-filtra-articoli",
+      "/nl/zelfstudies/inhoudsbeheer/5-verwijderen-archiveren-filteren/5-1-artikelen-filteren",
+      "/pt/tutoriais/gestao-de-conteudos/5-eliminar-ficheiro-e-filtro/5-1-filtro-de-artigos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/5-apagar-arquivar-e-filtrar/5-1-filtrar-artigos",
+      "/ru/rukovodstva/upravlenie-kontentom/5-udalenie-arkhivatsiya-i-filtratsiya/5-1-filtr-materialov"
+    ],
+    "languages": {
+      "en": {
+        "title": "Filter the Articles List",
+        "steps": 22
+      },
+      "de": {
+        "title": "Die Beitragsliste filtern",
+        "steps": 22
+      },
+      "es": {
+        "title": "Filtrar la lista de artículos",
+        "steps": 22
+      },
+      "fr": {
+        "title": "Filtrer la liste des articles",
+        "steps": 22
+      },
+      "it": {
+        "title": "Filtrare l'elenco degli articoli",
+        "steps": 22
+      },
+      "nl": {
+        "title": "De artikelenlijst filteren",
+        "steps": 22
+      },
+      "pt": {
+        "title": "Filtrar a lista de artigos",
+        "steps": 22
+      },
+      "pt-br": {
+        "title": "Filtrar a lista de artigos",
+        "steps": 22
+      }
+    }
+  },
+  "delete-articles": {
+    "number": "5.2",
+    "title": "5.2 Delete Articles from the Articles List",
+    "paths": [
+      "/tutorials/content-management/delete-archive-and-filter-articles/delete-articles",
+      "/de/tutorials/inhaltsverwaltung/5-loeschen-archivieren-und-filtern/5-2-beitraege-loeschen",
+      "/es/tutoriales/gestion-de-contenido/5-borrar-archivar-y-filtrar/5-2-borrar-articulos",
+      "/fa/amwzsh-ha/mdyryt-mtlb/5-hdhf-baygany-w-fyltr/5-2-hdhf-mqalat",
+      "/fr/tutoriels/gestion-des-contenus/5-supprimer-archiver-et-filtrer/5-2-suppression-des-articles",
+      "/it/tutorial-it-it/gestione-contenuti/5-eliminazione-archivio-e-filtro/5-2-elimina-articoli",
+      "/nl/zelfstudies/inhoudsbeheer/5-verwijderen-archiveren-filteren/5-2-artikelen-verwijderen",
+      "/pt/tutoriais/gestao-de-conteudos/5-eliminar-ficheiro-e-filtro/5-2-eliminar-artigos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/5-apagar-arquivar-e-filtrar/5-2-excluir-artigos",
+      "/ru/rukovodstva/upravlenie-kontentom/5-udalenie-arkhivatsiya-i-filtratsiya/5-2-udalenie-materialov"
+    ],
+    "languages": {
+      "en": {
+        "title": "Delete Articles",
+        "steps": 22
+      },
+      "de": {
+        "title": "Beiträge löschen",
+        "steps": 22
+      },
+      "es": {
+        "title": "Borrar artículos",
+        "steps": 22
+      },
+      "fr": {
+        "title": "Supprimer des articles",
+        "steps": 22
+      },
+      "it": {
+        "title": "Eliminare articoli",
+        "steps": 22
+      },
+      "nl": {
+        "title": "Artikelen verwijderen",
+        "steps": 22
+      },
+      "pt": {
+        "title": "Eliminar artigos",
+        "steps": 22
+      },
+      "pt-br": {
+        "title": "Excluir artigos",
+        "steps": 22
+      }
+    }
+  },
+  "archive-articles": {
+    "number": "5.3",
+    "title": "5.3 Archive Articles",
+    "paths": [
+      "/tutorials/content-management/delete-archive-and-filter-articles/archive-articles",
+      "/de/tutorials/inhaltsverwaltung/5-loeschen-archivieren-und-filtern/5-3-archivierte-beitraege",
+      "/es/tutoriales/gestion-de-contenido/5-borrar-archivar-y-filtrar/5-3-archivar-articulos",
+      "/fa/amwzsh-ha/mdyryt-mtlb/5-hdhf-baygany-w-fyltr/baygany-mqalat-5-3",
+      "/fr/tutoriels/gestion-des-contenus/5-supprimer-archiver-et-filtrer/5-3-archiver-des-articles",
+      "/it/tutorial-it-it/gestione-contenuti/5-eliminazione-archivio-e-filtro/5-3-archivio-articoli",
+      "/nl/zelfstudies/inhoudsbeheer/5-verwijderen-archiveren-filteren/5-3-artikelen-archiveren",
+      "/pt/tutoriais/gestao-de-conteudos/5-eliminar-ficheiro-e-filtro/5-3-ficheiro-de-artigos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/5-apagar-arquivar-e-filtrar/5-3-arquivar-artigos",
+      "/ru/rukovodstva/upravlenie-kontentom/5-udalenie-arkhivatsiya-i-filtratsiya/5-3-peremeshchenie-materialov-v-arkhiv"
+    ],
+    "languages": {
+      "en": {
+        "title": "Archive Articles",
+        "steps": 35
+      },
+      "de": {
+        "title": "Beiträge archivieren",
+        "steps": 35
+      },
+      "es": {
+        "title": "Archivar artículos",
+        "steps": 35
+      },
+      "fr": {
+        "title": "Archiver des articles",
+        "steps": 35
+      },
+      "it": {
+        "title": "Archiviare articoli",
+        "steps": 35
+      },
+      "nl": {
+        "title": "Artikelen archiveren",
+        "steps": 35
+      },
+      "pt": {
+        "title": "Arquivar artigos",
+        "steps": 35
+      },
+      "pt-br": {
+        "title": "Arquivar artigos",
+        "steps": 35
+      }
+    }
+  },
+  "pagination": {
+    "number": "6.1",
+    "title": "6.1 Pagination",
+    "paths": [
+      "/tutorials/content-management/pagination-read-more/pagination",
+      "/de/tutorials/inhaltsverwaltung/6-paginierung-weiterlesen/6-1-seitennummerierung",
+      "/es/tutoriales/gestion-de-contenido/6-paginacion-y-leer-mas/6-1-paginacion",
+      "/fa/amwzsh-ha/mdyryt-mtlb/6-sfhh-bndy-w-adamh-mtlb/sfhh-bndy-6-1",
+      "/fr/tutoriels/gestion-des-contenus/6-pagination-et-lire-la-suite/6-1-pagination",
+      "/it/tutorial-it-it/gestione-contenuti/6-paginazione-e-continua-a-leggere/6-1-paginazione",
+      "/nl/zelfstudies/inhoudsbeheer/6-paginering-lees-meer/6-1-paginering",
+      "/pt/tutoriais/gestao-de-conteudos/6-paginacao-e-leia-mais/6-1-paginacao",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/6-paginacao-e-leia-mais/6-1-paginacao",
+      "/ru/rukovodstva/upravlenie-kontentom/6-razbienie-na-stranitsy-i-podrobnee/6-1-razbienie-na-stranitsy"
+    ],
+    "languages": {
+      "en": {
+        "title": "Pagination",
+        "steps": 7
+      },
+      "de": {
+        "title": "Seitennummerierung",
+        "steps": 7
+      },
+      "es": {
+        "title": "Paginación",
+        "steps": 7
+      },
+      "fr": {
+        "title": "Pagination",
+        "steps": 7
+      },
+      "it": {
+        "title": "Paginazione",
+        "steps": 7
+      },
+      "nl": {
+        "title": "Paginering",
+        "steps": 7
+      },
+      "pt": {
+        "title": "Paginação",
+        "steps": 7
+      },
+      "pt-br": {
+        "title": "Paginação",
+        "steps": 7
+      }
+    }
+  },
+  "read-more": {
+    "number": "6.2",
+    "title": "6.2 Read More",
+    "paths": [
+      "/tutorials/content-management/pagination-read-more/read-more",
+      "/de/tutorials/inhaltsverwaltung/6-paginierung-weiterlesen/6-2-weiterlesen",
+      "/es/tutoriales/gestion-de-contenido/6-paginacion-y-leer-mas/6-2-leer-mas",
+      "/fa/amwzsh-ha/mdyryt-mtlb/6-sfhh-bndy-w-adamh-mtlb/6-2-adamh-mtlb",
+      "/fr/tutoriels/gestion-des-contenus/6-pagination-et-lire-la-suite/6-2-lire-la-suite",
+      "/it/tutorial-it-it/gestione-contenuti/6-paginazione-e-continua-a-leggere/6-2-leggi-tutto",
+      "/nl/zelfstudies/inhoudsbeheer/6-paginering-lees-meer/6-2-lees-meer",
+      "/pt/tutoriais/gestao-de-conteudos/6-paginacao-e-leia-mais/6-2-leia-mais",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/6-paginacao-e-leia-mais/6-2-leia-mais",
+      "/ru/rukovodstva/upravlenie-kontentom/6-razbienie-na-stranitsy-i-podrobnee/6-2-podrobnee"
+    ],
+    "languages": {
+      "en": {
+        "title": "Read More",
+        "steps": 6
+      },
+      "de": {
+        "title": "Weiterlesen",
+        "steps": 6
+      },
+      "es": {
+        "title": "Leer más",
+        "steps": 6
+      },
+      "fr": {
+        "title": "Lire la suite",
+        "steps": 6
+      },
+      "it": {
+        "title": "Leggi tutto",
+        "steps": 6
+      },
+      "nl": {
+        "title": "Lees meer",
+        "steps": 6
+      },
+      "pt": {
+        "title": "Ler mais",
+        "steps": 6
+      },
+      "pt-br": {
+        "title": "Leia Mais",
+        "steps": 6
+      }
+    }
+  },
+  "publishing-articles-and-categories": {
+    "number": "7.1",
+    "title": "7.1 Publishing Articles and Categories",
+    "paths": [
+      "/tutorials/content-management/publishing-and-access-restrictions/publishing-articles-and-categories",
+      "/de/tutorials/inhaltsverwaltung/7-veroeffentlichung-zugriffsebene/7-1-veroeffentlichen-von-beitraegen-und-kategorien",
+      "/es/tutoriales/gestion-de-contenido/7-publicacion-y-acceso/7-1-publicacion-de-articulos-y-categorias",
+      "/fa/amwzsh-ha/mdyryt-mtlb/7-antshar-w-dstrsy/7-1-antshar-mqalat-w-mjmw-h-ha",
+      "/fr/tutoriels/gestion-des-contenus/7-publication-et-acces/7-1-publier-des-articles-et-des-categories",
+      "/it/tutorial-it-it/gestione-contenuti/7-pubblicazione-e-accesso/7-1-pubblicazione-di-articoli-e-categorie",
+      "/nl/zelfstudies/inhoudsbeheer/7-publiceren-toegang/7-1-artikelen-en-categorieen-publiceren",
+      "/pt/tutoriais/gestao-de-conteudos/7-publicacao-e-acesso/7-1-publicacao-de-artigos-e-categorias",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/7-publicacao-e-acesso/7-1-publicando-artigos-e-categorias",
+      "/ru/rukovodstva/upravlenie-kontentom/7-publikatsiya-i-dostup/7-1-publikatsiya-materialov-i-kategorij"
+    ],
+    "languages": {
+      "en": {
+        "title": "Publishing Articles and Categories",
+        "steps": 18
+      },
+      "de": {
+        "title": "Beiträge und Kategorien veröffentlichen",
+        "steps": 18
+      },
+      "es": {
+        "title": "Publicación de artículos y categorías",
+        "steps": 18
+      },
+      "fr": {
+        "title": "Publication d'articles et de catégories",
+        "steps": 18
+      },
+      "it": {
+        "title": "Pubblicazione di articoli e categorie",
+        "steps": 18
+      },
+      "nl": {
+        "title": "Artikelen en categorieën publiceren",
+        "steps": 18
+      },
+      "pt": {
+        "title": "Publicação de artigos e categorias",
+        "steps": 18
+      },
+      "pt-br": {
+        "title": "Publicar artigos e categorias",
+        "steps": 18
+      }
+    }
+  },
+  "publishing-menu-items": {
+    "number": "7.2",
+    "title": "7.2 Publishing Menu Items",
+    "paths": [
+      "/tutorials/content-management/publishing-and-access-restrictions/publishing-menu-items",
+      "/de/tutorials/inhaltsverwaltung/7-veroeffentlichung-zugriffsebene/7-2-menueeintraege-veroeffentlichen",
+      "/es/tutoriales/gestion-de-contenido/7-publicacion-y-acceso/7-2-publicacion-de-elementos-del-menu",
+      "/fa/amwzsh-ha/mdyryt-mtlb/7-antshar-w-dstrsy/7-2-antshar-aytm-hay-mnw",
+      "/fr/tutoriels/gestion-des-contenus/7-publication-et-acces/7-2-publier-des-liens-de-menu",
+      "/it/tutorial-it-it/gestione-contenuti/7-pubblicazione-e-accesso/7-2-pubblicazione-delle-voci-di-menu",
+      "/nl/zelfstudies/inhoudsbeheer/7-publiceren-toegang/7-2-menu-items-publiceren",
+      "/pt/tutoriais/gestao-de-conteudos/7-publicacao-e-acesso/7-2-publicar-itens-de-menu",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/7-publicacao-e-acesso/7-2-publicando-itens-de-menu",
+      "/ru/rukovodstva/upravlenie-kontentom/7-publikatsiya-i-dostup/7-2-publikatsiya-punktov-menyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Publishing Menu Items",
+        "steps": 20
+      },
+      "de": {
+        "title": "Menüeinträge veröffentlichen",
+        "steps": 20
+      },
+      "es": {
+        "title": "Publicación de elementos del menú",
+        "steps": 20
+      },
+      "fr": {
+        "title": "Publier des liens de menu",
+        "steps": 20
+      },
+      "it": {
+        "title": "Pubblicazione delle voci di menu",
+        "steps": 20
+      },
+      "nl": {
+        "title": "Menu-items publiceren",
+        "steps": 20
+      },
+      "pt": {
+        "title": "Publicar itens de menu",
+        "steps": 20
+      },
+      "pt-br": {
+        "title": "Publicar itens de menu",
+        "steps": 20
+      }
+    }
+  },
+  "timed-publishing": {
+    "number": "7.3",
+    "title": "7.3 Timed Publishing",
+    "paths": [
+      "/tutorials/content-management/publishing-and-access-restrictions/timed-publishing",
+      "/de/tutorials/inhaltsverwaltung/7-veroeffentlichung-zugriffsebene/7-3-zeitgesteuerte-veroeffentlichung",
+      "/es/tutoriales/gestion-de-contenido/7-publicacion-y-acceso/7-3-publicacion-programada",
+      "/fa/amwzsh-ha/mdyryt-mtlb/7-antshar-w-dstrsy/antshar-zman-bndy-shdh-7-3",
+      "/fr/tutoriels/gestion-des-contenus/7-publication-et-acces/7-3-publication-programmee",
+      "/it/tutorial-it-it/gestione-contenuti/7-pubblicazione-e-accesso/7-3-pubblicazione-a-tempo",
+      "/nl/zelfstudies/inhoudsbeheer/7-publiceren-toegang/7-3-getimede-publicatie",
+      "/pt/tutoriais/gestao-de-conteudos/7-publicacao-e-acesso/7-3-publicacao-temporizada",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/7-publicacao-e-acesso/7-3-publicacao-programada",
+      "/ru/rukovodstva/upravlenie-kontentom/7-publikatsiya-i-dostup/7-3-otlozhennaya-publikatsiya"
+    ],
+    "languages": {
+      "en": {
+        "title": "Timed Publishing",
+        "steps": 14
+      },
+      "de": {
+        "title": "Zeitgesteuerte Veröffentlichung",
+        "steps": 14
+      },
+      "es": {
+        "title": "Publicación programada",
+        "steps": 14
+      },
+      "fr": {
+        "title": "Publication programmée",
+        "steps": 14
+      },
+      "it": {
+        "title": "Pubblicazione a tempo",
+        "steps": 14
+      },
+      "nl": {
+        "title": "Getimede publicatie",
+        "steps": 14
+      },
+      "pt": {
+        "title": "Publicação temporizada",
+        "steps": 14
+      },
+      "pt-br": {
+        "title": "Publicação programada",
+        "steps": 14
+      }
+    }
+  },
+  "view-access-restrictions": {
+    "number": "7.4",
+    "title": "7.4 Restrict Access to Articles",
+    "paths": [
+      "/tutorials/content-management/publishing-and-access-restrictions/view-access-restrictions",
+      "/de/tutorials/inhaltsverwaltung/7-veroeffentlichung-zugriffsebene/7-4-zugriffsbeschraenkungen-anzeigen",
+      "/es/tutoriales/gestion-de-contenido/7-publicacion-y-acceso/7-4-restricciones-del-nivel-de-acceso",
+      "/fa/amwzsh-ha/mdyryt-mtlb/7-antshar-w-dstrsy/7-4-mhdwdyt-hay-dstrsy-nmaysh",
+      "/fr/tutoriels/gestion-des-contenus/7-publication-et-acces/7-4-restrictions-de-niveau-dacces",
+      "/it/tutorial-it-it/gestione-contenuti/7-pubblicazione-e-accesso/7-4-limitazioni-livello-di-accesso-di-visualizzazione",
+      "/nl/zelfstudies/inhoudsbeheer/7-publiceren-toegang/7-4-weergave-toegangsbeperkingen",
+      "/pt/tutoriais/gestao-de-conteudos/7-publicacao-e-acesso/7-4-restricoes-de-nivel-de-acesso-de-visualizacao",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/7-publicacao-e-acesso/7-4-restricoes-de-acesso-para-visualizacoes",
+      "/ru/rukovodstva/upravlenie-kontentom/7-publikatsiya-i-dostup/7-4-ogranicheniya-urovnya-dostupa"
+    ],
+    "languages": {
+      "en": {
+        "title": "Restrict Access to Articles",
+        "steps": 13
+      },
+      "de": {
+        "title": "Zugriff auf Beiträge einschränken",
+        "steps": 13
+      },
+      "es": {
+        "title": "Restringir el acceso a los artículos",
+        "steps": 13
+      },
+      "fr": {
+        "title": "Restreindre l'accès aux articles",
+        "steps": 13
+      },
+      "it": {
+        "title": "Limitare l'accesso agli articoli",
+        "steps": 13
+      },
+      "nl": {
+        "title": "Toegang tot artikelen beperken",
+        "steps": 13
+      },
+      "pt": {
+        "title": "Restringir o acesso a artigos",
+        "steps": 13
+      },
+      "pt-br": {
+        "title": "Restringir o acesso a artigos",
+        "steps": 13
+      }
+    }
+  },
+  "locking-an-article": {
+    "number": "7.5",
+    "title": "7.5 Locking an Article",
+    "paths": [
+      "/tutorials/content-management/publishing-and-access-restrictions/locking-an-article",
+      "/de/tutorials/inhaltsverwaltung/7-veroeffentlichung-zugriffsebene/7-5-einen-beitrag-sperren",
+      "/es/tutoriales/gestion-de-contenido/7-publicacion-y-acceso/7-5-bloqueo-de-un-articulo",
+      "/fa/amwzsh-ha/mdyryt-mtlb/7-antshar-w-dstrsy/7-5-qfl-krdn-yk-mtlb",
+      "/fr/tutoriels/gestion-des-contenus/7-publication-et-acces/7-5-verrouiller-un-article",
+      "/it/tutorial-it-it/gestione-contenuti/7-pubblicazione-e-accesso/7-5-bloccare-un-articolo",
+      "/nl/zelfstudies/inhoudsbeheer/7-publiceren-toegang/7-5-een-artikel-vergrendelen",
+      "/pt/tutoriais/gestao-de-conteudos/7-publicacao-e-acesso/7-5-trancar-um-artigo",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/7-publicacao-e-acesso/7-5-bloqueando-um-artigo",
+      "/ru/rukovodstva/upravlenie-kontentom/7-publikatsiya-i-dostup/7-5-blokirovka-materiala"
+    ],
+    "languages": {
+      "en": {
+        "title": "Locking an Article",
+        "steps": 7
+      },
+      "de": {
+        "title": "Einen Beitrag sperren",
+        "steps": 7
+      },
+      "es": {
+        "title": "Bloqueo de un artículo",
+        "steps": 7
+      },
+      "fr": {
+        "title": "Verrouiller un article",
+        "steps": 7
+      },
+      "it": {
+        "title": "Bloccare un articolo",
+        "steps": 7
+      },
+      "nl": {
+        "title": "Een artikel vergrendelen",
+        "steps": 7
+      },
+      "pt": {
+        "title": "Trancar um artigo",
+        "steps": 7
+      },
+      "pt-br": {
+        "title": "Bloquear um artigo",
+        "steps": 7
+      }
+    }
+  },
+  "article-permissions": {
+    "number": "7.6",
+    "title": "7.6 Edit Permissions for Articles",
+    "paths": [
+      "/tutorials/content-management/publishing-and-access-restrictions/article-permissions",
+      "/de/tutorials/inhaltsverwaltung/7-veroeffentlichung-zugriffsebene/7-6-beitragsberechtigungen",
+      "/es/tutoriales/gestion-de-contenido/7-publicacion-y-acceso/7-6-permisos-de-articulos",
+      "/fa/amwzsh-ha/mdyryt-mtlb/7-antshar-w-dstrsy/7-6-dstrsy-hay-mtlb",
+      "/fr/tutoriels/gestion-des-contenus/7-publication-et-acces/7-6-droits-dacces",
+      "/it/tutorial-it-it/gestione-contenuti/7-pubblicazione-e-accesso/permessi-articolo-7-6",
+      "/nl/zelfstudies/inhoudsbeheer/7-publiceren-toegang/7-6-artikelrechten",
+      "/pt/tutoriais/gestao-de-conteudos/7-publicacao-e-acesso/7-6-permissoes-de-artigos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/7-publicacao-e-acesso/7-6-permissoes-do-artigo",
+      "/ru/rukovodstva/upravlenie-kontentom/7-publikatsiya-i-dostup/7-6-prava-dostupa-k-materialam"
+    ],
+    "languages": {
+      "en": {
+        "title": "Edit Permissions for Articles",
+        "steps": 27
+      },
+      "de": {
+        "title": "Bearbeitungsrechte für Beiträge",
+        "steps": 27
+      },
+      "es": {
+        "title": "Editar permisos de los artículos",
+        "steps": 27
+      },
+      "fr": {
+        "title": "Droits de modification pour les articles",
+        "steps": 27
+      },
+      "it": {
+        "title": "Permessi di modifica per gli articoli",
+        "steps": 27
+      },
+      "nl": {
+        "title": "Bewerkingsrechten voor artikelen",
+        "steps": 27
+      },
+      "pt": {
+        "title": "Permissões de edição para artigos",
+        "steps": 27
+      },
+      "pt-br": {
+        "title": "Permissões de edição para artigos",
+        "steps": 27
+      }
+    }
+  },
+  "sef-urls": {
+    "number": "8.1",
+    "title": "8.1 SEF URLs",
+    "paths": [
+      "/tutorials/content-management/urls/sef-urls",
+      "/de/tutorials/inhaltsverwaltung/8-adressen/8-1-sef-adressen",
+      "/es/tutoriales/gestion-de-contenido/8-urls/8-1-urls-amigables",
+      "/fa/amwzsh-ha/mdyryt-mtlb/8-adrs/adrs-hay-sef-dr-nskhh-8-1",
+      "/fr/tutoriels/gestion-des-contenus/8-url/8-1-url-sef",
+      "/it/tutorial-it-it/gestione-contenuti/8-url/8-1-url-sef",
+      "/nl/zelfstudies/inhoudsbeheer/8-urls/8-1-sef-urls",
+      "/pt/tutoriais/gestao-de-conteudos/8-hiperligacoes/8-1-hiperligacoes-sef",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/8-url/8-1-url-amigaveis-para-mecanismos-de-pesquisa-s-e-f",
+      "/ru/rukovodstva/upravlenie-kontentom/8-url-adresov/8-1-chpu-url-adresa"
+    ],
+    "languages": {
+      "en": {
+        "title": "SEF URLs",
+        "steps": 6
+      },
+      "de": {
+        "title": "SEF-Adressen",
+        "steps": 6
+      },
+      "es": {
+        "title": "URLs amigables",
+        "steps": 6
+      },
+      "fr": {
+        "title": "URL SEF",
+        "steps": 6
+      },
+      "it": {
+        "title": "URL SEF",
+        "steps": 6
+      },
+      "nl": {
+        "title": "SEF URL's",
+        "steps": 6
+      },
+      "pt": {
+        "title": "URL amigáveis",
+        "steps": 6
+      },
+      "pt-br": {
+        "title": "URLs amigáveis (SEF)",
+        "steps": 6
+      }
+    }
+  },
+  "article-urls": {
+    "number": "8.2",
+    "title": "8.2 Different URLs for Content",
+    "paths": [
+      "/tutorials/content-management/urls/article-urls",
+      "/de/tutorials/inhaltsverwaltung/8-adressen/8-2-beitrag-adressen",
+      "/es/tutoriales/gestion-de-contenido/8-urls/8-2-urls-de-articulos",
+      "/fa/amwzsh-ha/mdyryt-mtlb/8-adrs/adrs-hay-mtlb-8-2",
+      "/fr/tutoriels/gestion-des-contenus/8-url/8-2-url-des-articles",
+      "/it/tutorial-it-it/gestione-contenuti/8-url/8-2-url-articoli",
+      "/nl/zelfstudies/inhoudsbeheer/8-urls/8-2-artikel-urls",
+      "/pt/tutoriais/gestao-de-conteudos/8-hiperligacoes/8-2-url-de-artigos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/8-url/8-2-url-de-artigos",
+      "/ru/rukovodstva/upravlenie-kontentom/8-url-adresov/8-2-url-adresa-materialov"
+    ],
+    "languages": {
+      "en": {
+        "title": "Different URLs for Content",
+        "steps": 32
+      },
+      "de": {
+        "title": "Unterschiedliche URLs für Inhalte",
+        "steps": 32
+      },
+      "es": {
+        "title": "Diferentes URL para el contenido",
+        "steps": 32
+      },
+      "fr": {
+        "title": "URLs différentes pour un contenu",
+        "steps": 32
+      },
+      "it": {
+        "title": "Diversi URL per i contenuti",
+        "steps": 32
+      },
+      "nl": {
+        "title": "Verschillende URL's voor inhoud",
+        "steps": 32
+      },
+      "pt": {
+        "title": "URL diferentes para o conteúdo",
+        "steps": 32
+      },
+      "pt-br": {
+        "title": "URLs diferentes para conteúdo",
+        "steps": 32
+      }
+    }
+  },
+  "custom-module": {
+    "number": "9.1",
+    "title": "9.1 Custom Module",
+    "paths": [
+      "/tutorials/content-management/modules-positions-menus/custom-module",
+      "/de/tutorials/inhaltsverwaltung/9-module/9-1-eigenes-modul",
+      "/es/tutoriales/gestion-de-contenido/9-modulos/9-1-modulo-personalizado",
+      "/fa/amwzsh-ha/mdyryt-mtlb/9-mazhwl/mazhwl-sfarshy-9-1",
+      "/fr/tutoriels/gestion-des-contenus/9-modules/9-1-module-personnalise",
+      "/it/tutorial-it-it/gestione-contenuti/9-moduli/9-1-modulo-personalizzato",
+      "/nl/zelfstudies/inhoudsbeheer/9-modules/9-1-aangepaste-module",
+      "/pt/tutoriais/gestao-de-conteudos/9-modulos/9-1-modulo-personalizado",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/9-modulos/9-1-modulo-personalizado",
+      "/ru/rukovodstva/upravlenie-kontentom/9-modulej/9-1-sobstvennyj-modul"
+    ],
+    "languages": {
+      "en": {
+        "title": "Custom Module",
+        "steps": 14
+      },
+      "de": {
+        "title": "Eigenes Modul",
+        "steps": 14
+      },
+      "es": {
+        "title": "Módulo personalizado",
+        "steps": 14
+      },
+      "fr": {
+        "title": "Module personnalisé",
+        "steps": 14
+      },
+      "it": {
+        "title": "Modulo personalizzato",
+        "steps": 14
+      },
+      "nl": {
+        "title": "Aangepaste module",
+        "steps": 14
+      },
+      "pt": {
+        "title": "Módulo personalizado",
+        "steps": 14
+      },
+      "pt-br": {
+        "title": "Módulo personalizado",
+        "steps": 14
+      }
+    }
+  },
+  "menu-item-modules": {
+    "number": "9.2",
+    "title": "9.2 Module Display by Menu Item",
+    "paths": [
+      "/tutorials/content-management/modules-positions-menus/menu-item-modules",
+      "/de/tutorials/inhaltsverwaltung/9-module/9-2-menueeintrag-module",
+      "/es/tutoriales/gestion-de-contenido/9-modulos/9-2-modulos-de-elementos-del-menu",
+      "/fa/amwzsh-ha/mdyryt-mtlb/9-mazhwl/9-2-mazhwl-hay-aytm-mnw",
+      "/fr/tutoriels/gestion-des-contenus/9-modules/9-2-modules-lien-de-menu",
+      "/it/tutorial-it-it/gestione-contenuti/9-moduli/9-2-moduli-voce-di-menu",
+      "/nl/zelfstudies/inhoudsbeheer/9-modules/9-2-menu-item-modules",
+      "/pt/tutoriais/gestao-de-conteudos/9-modulos/9-2-modulos-de-itens-de-menu",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/9-modulos/9-2-modulos-de-itens-de-menu",
+      "/ru/rukovodstva/upravlenie-kontentom/9-modulej/9-2-moduli-punktov-menyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Module Display by Menu Item",
+        "steps": 21
+      },
+      "de": {
+        "title": "Modulanzeige nach Menüeintrag",
+        "steps": 21
+      },
+      "es": {
+        "title": "Visualización de módulos por elemento del menú",
+        "steps": 21
+      },
+      "fr": {
+        "title": "Affichage des modules par lien de menu",
+        "steps": 21
+      },
+      "it": {
+        "title": "Visualizzazione dei moduli per voce di menu",
+        "steps": 21
+      },
+      "nl": {
+        "title": "Moduleweergave per menu-item",
+        "steps": 21
+      },
+      "pt": {
+        "title": "Exibir módulo por item de menu",
+        "steps": 21
+      },
+      "pt-br": {
+        "title": "Exibição de módulo por item de menu",
+        "steps": 21
+      }
+    }
+  },
+  "submenus": {
+    "number": "10.1",
+    "title": "10.1 Submenus",
+    "paths": [
+      "/tutorials/content-management/menus/submenus",
+      "/de/tutorials/inhaltsverwaltung/10-menues/10-1-untermenues",
+      "/es/tutoriales/gestion-de-contenido/10-menus/10-1-submenus",
+      "/fa/amwzsh-ha/mdyryt-mtlb/10-mnw/zyrmnwhay-10-1",
+      "/fr/tutoriels/gestion-des-contenus/10-menus/10-1-sous-menus",
+      "/it/tutorial-it-it/gestione-contenuti/10-menu/10-1-sottomenu",
+      "/nl/zelfstudies/inhoudsbeheer/10-menus/10-1-submenus",
+      "/pt/tutoriais/gestao-de-conteudos/10-menus/10-1-submenus",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/10-menus/10-1-submenus",
+      "/ru/rukovodstva/upravlenie-kontentom/10-menyu/10-1-podmenyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Submenus",
+        "steps": 28
+      },
+      "de": {
+        "title": "Untermenüs",
+        "steps": 28
+      },
+      "es": {
+        "title": "Submenús",
+        "steps": 28
+      },
+      "fr": {
+        "title": "Sous-menus",
+        "steps": 28
+      },
+      "it": {
+        "title": "Sottomenu",
+        "steps": 28
+      },
+      "nl": {
+        "title": "Submenu's",
+        "steps": 28
+      },
+      "pt": {
+        "title": "Submenus",
+        "steps": 28
+      },
+      "pt-br": {
+        "title": "Submenus",
+        "steps": 28
+      }
+    }
+  },
+  "split-menus": {
+    "number": "10.2",
+    "title": "10.2 Split Menus",
+    "paths": [
+      "/tutorials/content-management/menus/split-menus",
+      "/de/tutorials/inhaltsverwaltung/10-menues/10-2-geteilte-menues",
+      "/es/tutoriales/gestion-de-contenido/10-menus/10-2-dividir-menus",
+      "/fa/amwzsh-ha/mdyryt-mtlb/10-mnw/10-2-tqsym-mnw-ha",
+      "/fr/tutoriels/gestion-des-contenus/10-menus/10-2-scinder-les-menus",
+      "/it/tutorial-it-it/gestione-contenuti/10-menu/10-2-dividi-menu",
+      "/nl/zelfstudies/inhoudsbeheer/10-menus/10-2-gesplitste-menus",
+      "/pt/tutoriais/gestao-de-conteudos/10-menus/10-2-dividir-menus",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/10-menus/10-2-dividir-menus",
+      "/ru/rukovodstva/upravlenie-kontentom/10-menyu/10-2-razdelenie-menyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Split Menus",
+        "steps": 24
+      },
+      "de": {
+        "title": "Geteilte Menüs",
+        "steps": 24
+      },
+      "es": {
+        "title": "Dividir menús",
+        "steps": 24
+      },
+      "fr": {
+        "title": "Scinder les menus",
+        "steps": 24
+      },
+      "it": {
+        "title": "Dividi menu",
+        "steps": 24
+      },
+      "nl": {
+        "title": "Gesplitste menu's",
+        "steps": 24
+      },
+      "pt": {
+        "title": "Dividir menus",
+        "steps": 24
+      },
+      "pt-br": {
+        "title": "Dividir menus",
+        "steps": 24
+      }
+    }
+  },
+  "display-options-hierarchy-article-category-menu-item": {
+    "number": "10.3",
+    "title": "10.3 Article Display Options Hierarchy",
+    "paths": [
+      "/tutorials/content-management/menus/display-options-hierarchy-article-category-menu-item",
+      "/de/tutorials/inhaltsverwaltung/10-menues/10-3-anzeigehierarchie",
+      "/es/tutoriales/gestion-de-contenido/10-menus/10-3-jerarquia-de-opciones-de-visualizacion",
+      "/fa/amwzsh-ha/mdyryt-mtlb/10-mnw/slslh-mratb-antkhab-hay-nmaysh-10-3",
+      "/fr/tutoriels/gestion-des-contenus/10-menus/10-3-hierarchie-des-parametres-daffichage",
+      "/it/tutorial-it-it/gestione-contenuti/10-menu/10-3-gerarchia-delle-opzioni-di-visualizzazione",
+      "/nl/zelfstudies/inhoudsbeheer/10-menus/10-3-hierarchie-van-weergaveopties",
+      "/pt/tutoriais/gestao-de-conteudos/10-menus/10-3-hierarquia-de-opcoes-de-exibicao",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/10-menus/hierarquia-de-opcoes-de-apresentacao-10-3",
+      "/ru/rukovodstva/upravlenie-kontentom/10-menyu/10-3-ierarkhiya-parametrov-otobrazheniya"
+    ],
+    "languages": {
+      "en": {
+        "title": "Article Display Options Hierarchy",
+        "steps": 34
+      },
+      "de": {
+        "title": "Hierarchie der Beitragsanzeigeoptionen",
+        "steps": 34
+      },
+      "es": {
+        "title": "Jerarquía de opciones de visualización del artículo",
+        "steps": 34
+      },
+      "fr": {
+        "title": "Hiérarchie des paramètres d'affichage des articles",
+        "steps": 34
+      },
+      "it": {
+        "title": "Gerarchia delle opzioni di visualizzazione degli articoli",
+        "steps": 34
+      },
+      "nl": {
+        "title": "Hiërarchie van weergaveopties voor artikelen",
+        "steps": 34
+      },
+      "pt": {
+        "title": "Hierarquia das opções de exibição de artigos",
+        "steps": 34
+      },
+      "pt-br": {
+        "title": "Hierarquia das opções de exibição de artigo",
+        "steps": 34
+      }
+    }
+  },
+  "adding-a-new-menu": {
+    "number": "10.4",
+    "title": "10.4 Adding a New Menu",
+    "paths": [
+      "/tutorials/content-management/menus/adding-a-new-menu",
+      "/de/tutorials/inhaltsverwaltung/10-menues/10-4-ein-neues-menue-hinzufuegen",
+      "/es/tutoriales/gestion-de-contenido/10-menus/10-4-agregar-un-nuevo-menu",
+      "/fa/amwzsh-ha/mdyryt-mtlb/10-mnw/10-4-afzwdn-mnw-jdyd",
+      "/fr/tutoriels/gestion-des-contenus/10-menus/10-4-ajouter-un-nouveau-menu",
+      "/it/tutorial-it-it/gestione-contenuti/10-menu/10-4-aggiunta-di-un-nuovo-menu",
+      "/nl/zelfstudies/inhoudsbeheer/10-menus/10-4-een-nieuw-menu-toevoegen",
+      "/pt/tutoriais/gestao-de-conteudos/10-menus/10-4-adicionar-um-novo-menu",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/10-menus/10-4-adicionando-um-novo-menu",
+      "/ru/rukovodstva/upravlenie-kontentom/10-menyu/10-4-sozdanie-novogo-menyu"
+    ],
+    "languages": {
+      "en": {
+        "title": "Adding a New Menu",
+        "steps": 27
+      },
+      "de": {
+        "title": "Ein neues Menü hinzufügen",
+        "steps": 27
+      },
+      "es": {
+        "title": "Agregar un nuevo menú",
+        "steps": 27
+      },
+      "fr": {
+        "title": "Ajouter un nouveau menu",
+        "steps": 27
+      },
+      "it": {
+        "title": "Aggiunta di un nuovo menu",
+        "steps": 27
+      },
+      "nl": {
+        "title": "Een nieuw menu toevoegen",
+        "steps": 27
+      },
+      "pt": {
+        "title": "Adicionar um novo menu",
+        "steps": 27
+      },
+      "pt-br": {
+        "title": "Adicionar um novo menu",
+        "steps": 27
+      }
+    }
+  },
+  "content-tags": {
+    "number": "11.1",
+    "title": "11.1 Content Tags",
+    "paths": [
+      "/tutorials/content-management/tags/content-tags",
+      "/de/tutorials/inhaltsverwaltung/11-schlagwoerter/11-1-inhaltsschlagwoerter",
+      "/es/tutoriales/gestion-de-contenido/11-etiquetas/11-1-etiquetas-de-contenido",
+      "/fa/amwzsh-ha/mdyryt-mtlb/11-brchsb/11-1-brchsb-hay-mtlb",
+      "/fr/tutoriels/gestion-des-contenus/11-tags/11-1-tags-des-contenus",
+      "/it/tutorial-it-it/gestione-contenuti/11-tags/11-1-tags-contenuti",
+      "/nl/zelfstudies/inhoudsbeheer/11-tags/11-1-inhoud-tags",
+      "/pt/tutoriais/gestao-de-conteudos/11-etiquetas/11-1-etiquetas-de-conteudos",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/11-marcacoes-tags/11-1-marcacoes-tags-de-conteudo",
+      "/ru/rukovodstva/upravlenie-kontentom/11-tegov/11-1-tegi-kontenta"
+    ],
+    "languages": {
+      "en": {
+        "title": "Content Tags",
+        "steps": 34
+      },
+      "de": {
+        "title": "Inhalts-Schlagwörter",
+        "steps": 34
+      },
+      "es": {
+        "title": "Etiquetas de contenido",
+        "steps": 34
+      },
+      "fr": {
+        "title": "Tags des contenus",
+        "steps": 34
+      },
+      "it": {
+        "title": "Tag dei contenuti",
+        "steps": 34
+      },
+      "nl": {
+        "title": "Inhoud tags",
+        "steps": 34
+      },
+      "pt": {
+        "title": "Etiquetas de conteúdos",
+        "steps": 34
+      },
+      "pt-br": {
+        "title": "Tags de conteúdo",
+        "steps": 34
+      }
+    }
+  },
+  "article-metadata": {
+    "number": "12.1",
+    "title": "12.1 Article Metadata",
+    "paths": [
+      "/tutorials/content-management/metadata/article-metadata",
+      "/de/tutorials/inhaltsverwaltung/12-metadaten/12-1-beitrag-metadaten",
+      "/es/tutoriales/gestion-de-contenido/12-metadatos/12-1-metadatos-del-articulo",
+      "/fa/amwzsh-ha/mdyryt-mtlb/12-dadh-hay-mta/12-1-dadh-hay-mta-mtlb",
+      "/fr/tutoriels/gestion-des-contenus/12-metadonnees/12-1-metadonnees-de-larticle",
+      "/it/tutorial-it-it/gestione-contenuti/12-metadata/12-1-metadata-articolo",
+      "/nl/zelfstudies/inhoudsbeheer/12-metagegevens/12-1-artikel-metagegevens",
+      "/pt/tutoriais/gestao-de-conteudos/12-metadados/12-1-metadados-do-artigo",
+      "/pt-br/tutoriais/gerenciamento-de-conteudo/12-metadados/12-1-metadados-do-artigo",
+      "/ru/rukovodstva/upravlenie-kontentom/12-metadannye/12-1-metadannye-materiala"
+    ],
+    "languages": {
+      "en": {
+        "title": "Article Metadata",
+        "steps": 13
+      },
+      "de": {
+        "title": "Beitrag Metadaten",
+        "steps": 13
+      },
+      "es": {
+        "title": "Metadatos del artículo",
+        "steps": 13
+      },
+      "fr": {
+        "title": "Métadonnées de l'article",
+        "steps": 13
+      },
+      "it": {
+        "title": "Metadata dell'articolo",
+        "steps": 13
+      },
+      "nl": {
+        "title": "Artikel metagegevens",
+        "steps": 13
+      },
+      "pt": {
+        "title": "Metadados do artigo",
+        "steps": 13
+      },
+      "pt-br": {
+        "title": "Metadados do artigo",
+        "steps": 13
+      }
+    }
+  },
+  "multilingual-site-add-a-language": {
+    "number": "",
+    "title": "Multilingual Site: Add a Language",
+    "paths": [
+      "/user-guide/languages/languages-setup-a-multilingual-site"
+    ],
+    "languages": {
+      "en": {
+        "title": "Multilingual Site: Add a Language",
+        "steps": 52
+      }
+    }
+  }
+}
