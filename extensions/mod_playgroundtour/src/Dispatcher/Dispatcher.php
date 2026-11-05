@@ -35,6 +35,8 @@ class Dispatcher extends AbstractModuleDispatcher
         'nl-NL' => 'nl',
         'pt-PT' => 'pt',
         'pt-BR' => 'pt-br',
+        'ru-RU' => 'ru',
+        'fa-IR' => 'fa',
     ];
 
     /**

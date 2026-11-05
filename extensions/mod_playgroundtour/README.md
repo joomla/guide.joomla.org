@@ -5,7 +5,7 @@ button. The button opens a dialog of almost the whole page, with the
 [Joomla Playground](https://joomla-projects.github.io/joomla-playground/) and the tour in an iframe.
 
 The tour, the screenshot and the module's texts are in the language of the page (de-DE, es-ES, fr-FR, it-IT, nl-NL,
-pt-PT, pt-BR; English for the other languages).
+pt-PT, pt-BR, ru-RU, fa-IR; English for the other languages). Farsi pages are right to left, and so are their tours.
 
 ## For tutorial authors
 
