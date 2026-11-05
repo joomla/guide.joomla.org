@@ -46,6 +46,14 @@
       "pt-br": {
         "title": "Criar um artigo e um item de menu",
         "steps": 17
+      },
+      "ru": {
+        "title": "Создание материала и пункта меню",
+        "steps": 17
+      },
+      "fa": {
+        "title": "ایجاد یک مطلب و یک آیتم منو",
+        "steps": 17
       }
     }
   },
@@ -95,6 +103,14 @@
       },
       "pt-br": {
         "title": "Criar uma categoria e subcategorias",
+        "steps": 30
+      },
+      "ru": {
+        "title": "Создание категории и подкатегории",
+        "steps": 30
+      },
+      "fa": {
+        "title": "ایجاد یک مجموعه و زیرمجموعه",
         "steps": 30
       }
     }
@@ -146,6 +162,14 @@
       "pt-br": {
         "title": "Itens de menu para uma categoria de artigos",
         "steps": 15
+      },
+      "ru": {
+        "title": "Пункты меню для категории материалов",
+        "steps": 15
+      },
+      "fa": {
+        "title": "آیتم‌های منو برای یک مجموعه از مطالب",
+        "steps": 15
       }
     }
   },
@@ -195,6 +219,14 @@
       },
       "pt-br": {
         "title": "Destacar artigos na página inicial",
+        "steps": 12
+      },
+      "ru": {
+        "title": "Избранные материалы на главной странице",
+        "steps": 12
+      },
+      "fa": {
+        "title": "نمایش ویژه مطالب در صفحه اصلی",
         "steps": 12
       }
     }
@@ -246,6 +278,14 @@
       "pt-br": {
         "title": "Salvar no menu",
         "steps": 21
+      },
+      "ru": {
+        "title": "Сохранение в меню",
+        "steps": 21
+      },
+      "fa": {
+        "title": "ذخیره در منو",
+        "steps": 21
       }
     }
   },
@@ -295,6 +335,14 @@
       },
       "pt-br": {
         "title": "Negrito, itálico e mais",
+        "steps": 13
+      },
+      "ru": {
+        "title": "Полужирный, курсив и другое",
+        "steps": 13
+      },
+      "fa": {
+        "title": "پررنگ، ایتالیک و موارد دیگر",
         "steps": 13
       }
     }
@@ -346,6 +394,14 @@
       "pt-br": {
         "title": "Cabeçalhos",
         "steps": 15
+      },
+      "ru": {
+        "title": "Заголовки",
+        "steps": 15
+      },
+      "fa": {
+        "title": "عنوان‌ها",
+        "steps": 15
       }
     }
   },
@@ -395,6 +451,14 @@
       },
       "pt-br": {
         "title": "Listas",
+        "steps": 13
+      },
+      "ru": {
+        "title": "Списки",
+        "steps": 13
+      },
+      "fa": {
+        "title": "لیست‌ها",
         "steps": 13
       }
     }
@@ -446,6 +510,14 @@
       "pt-br": {
         "title": "Links",
         "steps": 13
+      },
+      "ru": {
+        "title": "Ссылки",
+        "steps": 13
+      },
+      "fa": {
+        "title": "پیوندها",
+        "steps": 13
       }
     }
   },
@@ -495,6 +567,14 @@
       },
       "pt-br": {
         "title": "Tabelas",
+        "steps": 15
+      },
+      "ru": {
+        "title": "Таблицы",
+        "steps": 15
+      },
+      "fa": {
+        "title": "جداول",
         "steps": 15
       }
     }
@@ -546,6 +626,14 @@
       "pt-br": {
         "title": "Incorporar imagens no texto do artigo",
         "steps": 22
+      },
+      "ru": {
+        "title": "Встраивание изображений в текст материала",
+        "steps": 22
+      },
+      "fa": {
+        "title": "جاسازی تصاویر در متن مطلب",
+        "steps": 22
       }
     }
   },
@@ -595,6 +683,14 @@
       },
       "pt-br": {
         "title": "Gerenciar mídia",
+        "steps": 15
+      },
+      "ru": {
+        "title": "Управление медиафайлами",
+        "steps": 15
+      },
+      "fa": {
+        "title": "مدیریت تصویر",
         "steps": 15
       }
     }
@@ -646,6 +742,14 @@
       "pt-br": {
         "title": "Imagem de introdução e imagem de artigo completo",
         "steps": 39
+      },
+      "ru": {
+        "title": "Вводные изображения и изображения материалов",
+        "steps": 39
+      },
+      "fa": {
+        "title": "تصاویر مقدمه و مطلب کامل",
+        "steps": 39
       }
     }
   },
@@ -695,6 +799,14 @@
       },
       "pt-br": {
         "title": "Filtrar a lista de artigos",
+        "steps": 23
+      },
+      "ru": {
+        "title": "Фильтрация списка материалов",
+        "steps": 23
+      },
+      "fa": {
+        "title": "فیلتر لیست مطالب",
         "steps": 23
       }
     }
@@ -746,6 +858,14 @@
       "pt-br": {
         "title": "Excluir artigos",
         "steps": 23
+      },
+      "ru": {
+        "title": "Удаление материалов",
+        "steps": 23
+      },
+      "fa": {
+        "title": "حذف مطالب",
+        "steps": 23
       }
     }
   },
@@ -795,6 +915,14 @@
       },
       "pt-br": {
         "title": "Arquivar artigos",
+        "steps": 36
+      },
+      "ru": {
+        "title": "Перемещение материалов в архив",
+        "steps": 36
+      },
+      "fa": {
+        "title": "بایگانی مطالب",
         "steps": 36
       }
     }
@@ -846,6 +974,14 @@
       "pt-br": {
         "title": "Paginação",
         "steps": 8
+      },
+      "ru": {
+        "title": "Разбиение на страницы",
+        "steps": 8
+      },
+      "fa": {
+        "title": "صفحه‌بندی",
+        "steps": 8
       }
     }
   },
@@ -895,6 +1031,14 @@
       },
       "pt-br": {
         "title": "Leia Mais",
+        "steps": 7
+      },
+      "ru": {
+        "title": "Подробнее",
+        "steps": 7
+      },
+      "fa": {
+        "title": "ادامه مطلب",
         "steps": 7
       }
     }
@@ -946,6 +1090,14 @@
       "pt-br": {
         "title": "Publicar artigos e categorias",
         "steps": 19
+      },
+      "ru": {
+        "title": "Публикация материалов и категорий",
+        "steps": 19
+      },
+      "fa": {
+        "title": "انتشار مطالب و مجموعه‌ها",
+        "steps": 19
       }
     }
   },
@@ -995,6 +1147,14 @@
       },
       "pt-br": {
         "title": "Publicar itens de menu",
+        "steps": 21
+      },
+      "ru": {
+        "title": "Публикация пунктов меню",
+        "steps": 21
+      },
+      "fa": {
+        "title": "انتشار آیتم‌های منو",
         "steps": 21
       }
     }
@@ -1046,6 +1206,14 @@
       "pt-br": {
         "title": "Publicação programada",
         "steps": 15
+      },
+      "ru": {
+        "title": "Отложенная публикация",
+        "steps": 15
+      },
+      "fa": {
+        "title": "انتشار زمان‌بندی‌شده",
+        "steps": 15
       }
     }
   },
@@ -1095,6 +1263,14 @@
       },
       "pt-br": {
         "title": "Restringir o acesso a artigos",
+        "steps": 14
+      },
+      "ru": {
+        "title": "Ограничение доступа к материалам",
+        "steps": 14
+      },
+      "fa": {
+        "title": "محدود کردن دسترسی به مطالب",
         "steps": 14
       }
     }
@@ -1146,6 +1322,14 @@
       "pt-br": {
         "title": "Bloquear um artigo",
         "steps": 8
+      },
+      "ru": {
+        "title": "Блокировка материала",
+        "steps": 8
+      },
+      "fa": {
+        "title": "قفل کردن یک مطلب",
+        "steps": 8
       }
     }
   },
@@ -1195,6 +1379,14 @@
       },
       "pt-br": {
         "title": "Permissões de edição para artigos",
+        "steps": 28
+      },
+      "ru": {
+        "title": "Права доступа на редактирование материалов",
+        "steps": 28
+      },
+      "fa": {
+        "title": "ویرایش مجوزها برای مطالب",
         "steps": 28
       }
     }
@@ -1246,6 +1438,14 @@
       "pt-br": {
         "title": "URLs amigáveis (SEF)",
         "steps": 7
+      },
+      "ru": {
+        "title": "ЧПУ URL-адреса",
+        "steps": 7
+      },
+      "fa": {
+        "title": "آدرس‌های SEF",
+        "steps": 7
       }
     }
   },
@@ -1295,6 +1495,14 @@
       },
       "pt-br": {
         "title": "URLs diferentes para conteúdo",
+        "steps": 33
+      },
+      "ru": {
+        "title": "Разные URL-адреса для материалов",
+        "steps": 33
+      },
+      "fa": {
+        "title": "آدرس‌های متفاوت برای محتوا",
         "steps": 33
       }
     }
@@ -1346,6 +1554,14 @@
       "pt-br": {
         "title": "Módulo personalizado",
         "steps": 15
+      },
+      "ru": {
+        "title": "Пользовательский модуль",
+        "steps": 15
+      },
+      "fa": {
+        "title": "ماژول سفارشی",
+        "steps": 15
       }
     }
   },
@@ -1395,6 +1611,14 @@
       },
       "pt-br": {
         "title": "Exibição de módulo por item de menu",
+        "steps": 22
+      },
+      "ru": {
+        "title": "Отображение модуля по пункту меню",
+        "steps": 22
+      },
+      "fa": {
+        "title": "نمایش ماژول بر اساس آیتم منو",
         "steps": 22
       }
     }
@@ -1446,6 +1670,14 @@
       "pt-br": {
         "title": "Submenus",
         "steps": 29
+      },
+      "ru": {
+        "title": "Подменю",
+        "steps": 29
+      },
+      "fa": {
+        "title": "زیرمنوها",
+        "steps": 29
       }
     }
   },
@@ -1495,6 +1727,14 @@
       },
       "pt-br": {
         "title": "Dividir menus",
+        "steps": 25
+      },
+      "ru": {
+        "title": "Разделение меню",
+        "steps": 25
+      },
+      "fa": {
+        "title": "تقسیم منوها",
         "steps": 25
       }
     }
@@ -1546,6 +1786,14 @@
       "pt-br": {
         "title": "Hierarquia das opções de exibição de artigo",
         "steps": 35
+      },
+      "ru": {
+        "title": "Иерархия параметров отображения материалов",
+        "steps": 35
+      },
+      "fa": {
+        "title": "سلسله مراتب گزینه‌های نمایش مطلب",
+        "steps": 35
       }
     }
   },
@@ -1595,6 +1843,14 @@
       },
       "pt-br": {
         "title": "Adicionar um novo menu",
+        "steps": 28
+      },
+      "ru": {
+        "title": "Создание нового меню",
+        "steps": 28
+      },
+      "fa": {
+        "title": "افزودن منو جدید",
         "steps": 28
       }
     }
@@ -1646,6 +1902,14 @@
       "pt-br": {
         "title": "Tags de conteúdo",
         "steps": 35
+      },
+      "ru": {
+        "title": "Теги контента",
+        "steps": 35
+      },
+      "fa": {
+        "title": "برچسب‌های مطلب",
+        "steps": 35
       }
     }
   },
@@ -1695,6 +1959,14 @@
       },
       "pt-br": {
         "title": "Metadados do artigo",
+        "steps": 14
+      },
+      "ru": {
+        "title": "Метаданные материала",
+        "steps": 14
+      },
+      "fa": {
+        "title": "داده‌های متای مطلب",
         "steps": 14
       }
     }

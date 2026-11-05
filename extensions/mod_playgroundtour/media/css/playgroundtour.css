@@ -83,7 +83,8 @@
   inset: 50% auto auto 54%;
   content: "";
   border-block: .9rem solid transparent;
-  border-inline-start: 1.5rem solid #fff;
+  /* A play sign points right, also on right-to-left pages. */
+  border-left: 1.5rem solid #fff;
   transform: translate(-50%, -50%);
 }
 
@@ -123,7 +124,7 @@
   width: 0;
   height: 0;
   border-block: .45em solid transparent;
-  border-inline-start: .75em solid currentcolor;
+  border-left: .75em solid currentcolor;
 }
 
 /* Almost the whole page. */
