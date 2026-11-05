@@ -6,7 +6,7 @@
 	<copyright>(C) 2026 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>herman@yepr.nl</authorEmail>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<description>MOD_PLAYGROUNDTOUR_XML_DESCRIPTION</description>
 	<namespace path="src">Joomla\Module\PlaygroundTour</namespace>
 	<files>
@@ -30,6 +30,8 @@
 		<language tag="nl-NL">language/nl-NL/mod_playgroundtour.ini</language>
 		<language tag="pt-PT">language/pt-PT/mod_playgroundtour.ini</language>
 		<language tag="pt-BR">language/pt-BR/mod_playgroundtour.ini</language>
+		<language tag="ru-RU">language/ru-RU/mod_playgroundtour.ini</language>
+		<language tag="fa-IR">language/fa-IR/mod_playgroundtour.ini</language>
 		<language tag="en-GB">language/en-GB/mod_playgroundtour.sys.ini</language>
 	</languages>
 	<config>
