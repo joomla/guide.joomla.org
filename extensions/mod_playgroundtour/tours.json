@@ -17,35 +17,35 @@
     "languages": {
       "en": {
         "title": "Create an Article and a Menu Item",
-        "steps": 16
+        "steps": 17
       },
       "de": {
         "title": "Einen Beitrag und einen Menüeintrag erstellen",
-        "steps": 16
+        "steps": 17
       },
       "es": {
         "title": "Crear un artículo y un elemento de menú",
-        "steps": 16
+        "steps": 17
       },
       "fr": {
         "title": "Créer un article et un lien de menu",
-        "steps": 16
+        "steps": 17
       },
       "it": {
         "title": "Creare un articolo e una voce di menu",
-        "steps": 16
+        "steps": 17
       },
       "nl": {
         "title": "Een artikel en een menu-item maken",
-        "steps": 16
+        "steps": 17
       },
       "pt": {
         "title": "Criar um artigo e um item de menu",
-        "steps": 16
+        "steps": 17
       },
       "pt-br": {
         "title": "Criar um artigo e um item de menu",
-        "steps": 16
+        "steps": 17
       }
     }
   },
@@ -67,35 +67,35 @@
     "languages": {
       "en": {
         "title": "Create a Category and Sub-Categories",
-        "steps": 29
+        "steps": 30
       },
       "de": {
         "title": "Eine Kategorie und Unterkategorien erstellen",
-        "steps": 29
+        "steps": 30
       },
       "es": {
         "title": "Crear una categoría y subcategorías",
-        "steps": 29
+        "steps": 30
       },
       "fr": {
         "title": "Créer une catégorie et des sous-catégories",
-        "steps": 29
+        "steps": 30
       },
       "it": {
         "title": "Creare una categoria e delle sotto-categorie",
-        "steps": 29
+        "steps": 30
       },
       "nl": {
         "title": "Een categorie en sub-categorieën maken",
-        "steps": 29
+        "steps": 30
       },
       "pt": {
         "title": "Criar uma categoria e subcategorias",
-        "steps": 29
+        "steps": 30
       },
       "pt-br": {
         "title": "Criar uma categoria e subcategorias",
-        "steps": 29
+        "steps": 30
       }
     }
   },
@@ -117,35 +117,35 @@
     "languages": {
       "en": {
         "title": "Menu Items for a Category of Articles",
-        "steps": 14
+        "steps": 15
       },
       "de": {
         "title": "Menüeinträge für eine Kategorie von Beiträgen",
-        "steps": 14
+        "steps": 15
       },
       "es": {
         "title": "Elementos del menú para una categoría de artículos",
-        "steps": 14
+        "steps": 15
       },
       "fr": {
         "title": "Liens de menu pour une catégorie d'articles",
-        "steps": 14
+        "steps": 15
       },
       "it": {
         "title": "Voci di menu per una categoria di articoli",
-        "steps": 14
+        "steps": 15
       },
       "nl": {
         "title": "Menu-items voor een categorie van artikelen",
-        "steps": 14
+        "steps": 15
       },
       "pt": {
         "title": "Itens de menu para uma categoria de artigos",
-        "steps": 14
+        "steps": 15
       },
       "pt-br": {
         "title": "Itens de menu para uma categoria de artigos",
-        "steps": 14
+        "steps": 15
       }
     }
   },
@@ -167,35 +167,35 @@
     "languages": {
       "en": {
         "title": "Feature Articles on the Home Page",
-        "steps": 11
+        "steps": 12
       },
       "de": {
         "title": "Beiträge auf der Startseite hervorheben",
-        "steps": 11
+        "steps": 12
       },
       "es": {
         "title": "Destacar artículos en la página de inicio",
-        "steps": 11
+        "steps": 12
       },
       "fr": {
         "title": "Épingler des articles sur la page d'accueil",
-        "steps": 11
+        "steps": 12
       },
       "it": {
         "title": "Mettere in evidenza articoli nella homepage",
-        "steps": 11
+        "steps": 12
       },
       "nl": {
         "title": "Artikelen uitlichten op de startpagina",
-        "steps": 11
+        "steps": 12
       },
       "pt": {
         "title": "Destacar artigos na página inicial",
-        "steps": 11
+        "steps": 12
       },
       "pt-br": {
         "title": "Destacar artigos na página inicial",
-        "steps": 11
+        "steps": 12
       }
     }
   },
@@ -217,35 +217,35 @@
     "languages": {
       "en": {
         "title": "Save to Menu",
-        "steps": 20
+        "steps": 21
       },
       "de": {
         "title": "Im Menü speichern",
-        "steps": 20
+        "steps": 21
       },
       "es": {
         "title": "Guardar en el menú",
-        "steps": 20
+        "steps": 21
       },
       "fr": {
         "title": "Enregistrer dans le menu",
-        "steps": 20
+        "steps": 21
       },
       "it": {
         "title": "Salva nel menu",
-        "steps": 20
+        "steps": 21
       },
       "nl": {
         "title": "Opslaan in menu",
-        "steps": 20
+        "steps": 21
       },
       "pt": {
         "title": "Guardar no menu",
-        "steps": 20
+        "steps": 21
       },
       "pt-br": {
         "title": "Salvar no menu",
-        "steps": 20
+        "steps": 21
       }
     }
   },
@@ -267,35 +267,35 @@
     "languages": {
       "en": {
         "title": "Bold, Italic and More",
-        "steps": 12
+        "steps": 13
       },
       "de": {
         "title": "Fett, Kursiv und mehr",
-        "steps": 12
+        "steps": 13
       },
       "es": {
         "title": "Negrita, cursiva y más",
-        "steps": 12
+        "steps": 13
       },
       "fr": {
         "title": "Gras, italique et plus",
-        "steps": 12
+        "steps": 13
       },
       "it": {
         "title": "Grassetto, corsivo e altro",
-        "steps": 12
+        "steps": 13
       },
       "nl": {
         "title": "Vet, cursief en meer",
-        "steps": 12
+        "steps": 13
       },
       "pt": {
         "title": "Negrito, itálico e mais",
-        "steps": 12
+        "steps": 13
       },
       "pt-br": {
         "title": "Negrito, itálico e mais",
-        "steps": 12
+        "steps": 13
       }
     }
   },
@@ -317,35 +317,35 @@
     "languages": {
       "en": {
         "title": "Headings",
-        "steps": 14
+        "steps": 15
       },
       "de": {
         "title": "Überschriften",
-        "steps": 14
+        "steps": 15
       },
       "es": {
         "title": "Encabezados",
-        "steps": 14
+        "steps": 15
       },
       "fr": {
         "title": "Titres",
-        "steps": 14
+        "steps": 15
       },
       "it": {
         "title": "Intestazioni",
-        "steps": 14
+        "steps": 15
       },
       "nl": {
         "title": "Kopteksten",
-        "steps": 14
+        "steps": 15
       },
       "pt": {
         "title": "Cabeçalhos",
-        "steps": 14
+        "steps": 15
       },
       "pt-br": {
         "title": "Cabeçalhos",
-        "steps": 14
+        "steps": 15
       }
     }
   },
@@ -367,35 +367,35 @@
     "languages": {
       "en": {
         "title": "Lists",
-        "steps": 12
+        "steps": 13
       },
       "de": {
         "title": "Listen",
-        "steps": 12
+        "steps": 13
       },
       "es": {
         "title": "Listas",
-        "steps": 12
+        "steps": 13
       },
       "fr": {
         "title": "Listes",
-        "steps": 12
+        "steps": 13
       },
       "it": {
         "title": "Liste",
-        "steps": 12
+        "steps": 13
       },
       "nl": {
         "title": "Lijsten",
-        "steps": 12
+        "steps": 13
       },
       "pt": {
         "title": "Listas",
-        "steps": 12
+        "steps": 13
       },
       "pt-br": {
         "title": "Listas",
-        "steps": 12
+        "steps": 13
       }
     }
   },
@@ -417,35 +417,35 @@
     "languages": {
       "en": {
         "title": "Links",
-        "steps": 12
+        "steps": 13
       },
       "de": {
         "title": "Links",
-        "steps": 12
+        "steps": 13
       },
       "es": {
         "title": "Enlaces",
-        "steps": 12
+        "steps": 13
       },
       "fr": {
         "title": "Liens",
-        "steps": 12
+        "steps": 13
       },
       "it": {
         "title": "Link",
-        "steps": 12
+        "steps": 13
       },
       "nl": {
         "title": "Links",
-        "steps": 12
+        "steps": 13
       },
       "pt": {
         "title": "Hiperligações",
-        "steps": 12
+        "steps": 13
       },
       "pt-br": {
         "title": "Links",
-        "steps": 12
+        "steps": 13
       }
     }
   },
@@ -467,35 +467,35 @@
     "languages": {
       "en": {
         "title": "Tables",
-        "steps": 14
+        "steps": 15
       },
       "de": {
         "title": "Tabellen",
-        "steps": 14
+        "steps": 15
       },
       "es": {
         "title": "Tablas",
-        "steps": 14
+        "steps": 15
       },
       "fr": {
         "title": "Tableaux",
-        "steps": 14
+        "steps": 15
       },
       "it": {
         "title": "Tabelle",
-        "steps": 14
+        "steps": 15
       },
       "nl": {
         "title": "Tabellen",
-        "steps": 14
+        "steps": 15
       },
       "pt": {
         "title": "Tabelas",
-        "steps": 14
+        "steps": 15
       },
       "pt-br": {
         "title": "Tabelas",
-        "steps": 14
+        "steps": 15
       }
     }
   },
@@ -517,35 +517,35 @@
     "languages": {
       "en": {
         "title": "Embed Images in Article Text",
-        "steps": 21
+        "steps": 22
       },
       "de": {
         "title": "Bilder in Beitragstext einbetten",
-        "steps": 21
+        "steps": 22
       },
       "es": {
         "title": "Insertar imágenes en el texto de un artículo",
-        "steps": 21
+        "steps": 22
       },
       "fr": {
         "title": "Intégrer des images dans le texte d'un article",
-        "steps": 21
+        "steps": 22
       },
       "it": {
         "title": "Incorporare immagini nel testo degli articoli",
-        "steps": 21
+        "steps": 22
       },
       "nl": {
         "title": "Afbeeldingen insluiten in artikeltekst",
-        "steps": 21
+        "steps": 22
       },
       "pt": {
         "title": "Incorporar imagens no texto do artigo",
-        "steps": 21
+        "steps": 22
       },
       "pt-br": {
         "title": "Incorporar imagens no texto do artigo",
-        "steps": 21
+        "steps": 22
       }
     }
   },
@@ -567,35 +567,35 @@
     "languages": {
       "en": {
         "title": "Manage Media",
-        "steps": 14
+        "steps": 15
       },
       "de": {
         "title": "Medien verwalten",
-        "steps": 14
+        "steps": 15
       },
       "es": {
         "title": "Gestionar archivos multimedia",
-        "steps": 14
+        "steps": 15
       },
       "fr": {
         "title": "Gérer les médias",
-        "steps": 14
+        "steps": 15
       },
       "it": {
         "title": "Gestire i media",
-        "steps": 14
+        "steps": 15
       },
       "nl": {
         "title": "Media beheren",
-        "steps": 14
+        "steps": 15
       },
       "pt": {
         "title": "Gerir media",
-        "steps": 14
+        "steps": 15
       },
       "pt-br": {
         "title": "Gerenciar mídia",
-        "steps": 14
+        "steps": 15
       }
     }
   },
@@ -617,35 +617,35 @@
     "languages": {
       "en": {
         "title": "Intro and Full Article Images",
-        "steps": 38
+        "steps": 39
       },
       "de": {
         "title": "Einleitungs- und Beitragsbilder",
-        "steps": 38
+        "steps": 39
       },
       "es": {
         "title": "Imágenes de introducción y del artículo completo",
-        "steps": 38
+        "steps": 39
       },
       "fr": {
         "title": "Images d'introduction et d'article complet",
-        "steps": 38
+        "steps": 39
       },
       "it": {
         "title": "Immagini introduttive e dell'articolo completo",
-        "steps": 38
+        "steps": 39
       },
       "nl": {
         "title": "Intro- en volledige artikelafbeeldingen",
-        "steps": 38
+        "steps": 39
       },
       "pt": {
         "title": "Imagens introdutórias e de artigo completo",
-        "steps": 38
+        "steps": 39
       },
       "pt-br": {
         "title": "Imagem de introdução e imagem de artigo completo",
-        "steps": 38
+        "steps": 39
       }
     }
   },
@@ -667,35 +667,35 @@
     "languages": {
       "en": {
         "title": "Filter the Articles List",
-        "steps": 22
+        "steps": 23
       },
       "de": {
         "title": "Die Beitragsliste filtern",
-        "steps": 22
+        "steps": 23
       },
       "es": {
         "title": "Filtrar la lista de artículos",
-        "steps": 22
+        "steps": 23
       },
       "fr": {
         "title": "Filtrer la liste des articles",
-        "steps": 22
+        "steps": 23
       },
       "it": {
         "title": "Filtrare l'elenco degli articoli",
-        "steps": 22
+        "steps": 23
       },
       "nl": {
         "title": "De artikelenlijst filteren",
-        "steps": 22
+        "steps": 23
       },
       "pt": {
         "title": "Filtrar a lista de artigos",
-        "steps": 22
+        "steps": 23
       },
       "pt-br": {
         "title": "Filtrar a lista de artigos",
-        "steps": 22
+        "steps": 23
       }
     }
   },
@@ -717,35 +717,35 @@
     "languages": {
       "en": {
         "title": "Delete Articles",
-        "steps": 22
+        "steps": 23
       },
       "de": {
         "title": "Beiträge löschen",
-        "steps": 22
+        "steps": 23
       },
       "es": {
         "title": "Borrar artículos",
-        "steps": 22
+        "steps": 23
       },
       "fr": {
         "title": "Supprimer des articles",
-        "steps": 22
+        "steps": 23
       },
       "it": {
         "title": "Eliminare articoli",
-        "steps": 22
+        "steps": 23
       },
       "nl": {
         "title": "Artikelen verwijderen",
-        "steps": 22
+        "steps": 23
       },
       "pt": {
         "title": "Eliminar artigos",
-        "steps": 22
+        "steps": 23
       },
       "pt-br": {
         "title": "Excluir artigos",
-        "steps": 22
+        "steps": 23
       }
     }
   },
@@ -767,35 +767,35 @@
     "languages": {
       "en": {
         "title": "Archive Articles",
-        "steps": 35
+        "steps": 36
       },
       "de": {
         "title": "Beiträge archivieren",
-        "steps": 35
+        "steps": 36
       },
       "es": {
         "title": "Archivar artículos",
-        "steps": 35
+        "steps": 36
       },
       "fr": {
         "title": "Archiver des articles",
-        "steps": 35
+        "steps": 36
       },
       "it": {
         "title": "Archiviare articoli",
-        "steps": 35
+        "steps": 36
       },
       "nl": {
         "title": "Artikelen archiveren",
-        "steps": 35
+        "steps": 36
       },
       "pt": {
         "title": "Arquivar artigos",
-        "steps": 35
+        "steps": 36
       },
       "pt-br": {
         "title": "Arquivar artigos",
-        "steps": 35
+        "steps": 36
       }
     }
   },
@@ -817,35 +817,35 @@
     "languages": {
       "en": {
         "title": "Pagination",
-        "steps": 7
+        "steps": 8
       },
       "de": {
         "title": "Seitennummerierung",
-        "steps": 7
+        "steps": 8
       },
       "es": {
         "title": "Paginación",
-        "steps": 7
+        "steps": 8
       },
       "fr": {
         "title": "Pagination",
-        "steps": 7
+        "steps": 8
       },
       "it": {
         "title": "Paginazione",
-        "steps": 7
+        "steps": 8
       },
       "nl": {
         "title": "Paginering",
-        "steps": 7
+        "steps": 8
       },
       "pt": {
         "title": "Paginação",
-        "steps": 7
+        "steps": 8
       },
       "pt-br": {
         "title": "Paginação",
-        "steps": 7
+        "steps": 8
       }
     }
   },
@@ -867,35 +867,35 @@
     "languages": {
       "en": {
         "title": "Read More",
-        "steps": 6
+        "steps": 7
       },
       "de": {
         "title": "Weiterlesen",
-        "steps": 6
+        "steps": 7
       },
       "es": {
         "title": "Leer más",
-        "steps": 6
+        "steps": 7
       },
       "fr": {
         "title": "Lire la suite",
-        "steps": 6
+        "steps": 7
       },
       "it": {
         "title": "Leggi tutto",
-        "steps": 6
+        "steps": 7
       },
       "nl": {
         "title": "Lees meer",
-        "steps": 6
+        "steps": 7
       },
       "pt": {
         "title": "Ler mais",
-        "steps": 6
+        "steps": 7
       },
       "pt-br": {
         "title": "Leia Mais",
-        "steps": 6
+        "steps": 7
       }
     }
   },
@@ -917,35 +917,35 @@
     "languages": {
       "en": {
         "title": "Publishing Articles and Categories",
-        "steps": 18
+        "steps": 19
       },
       "de": {
         "title": "Beiträge und Kategorien veröffentlichen",
-        "steps": 18
+        "steps": 19
       },
       "es": {
         "title": "Publicación de artículos y categorías",
-        "steps": 18
+        "steps": 19
       },
       "fr": {
         "title": "Publication d'articles et de catégories",
-        "steps": 18
+        "steps": 19
       },
       "it": {
         "title": "Pubblicazione di articoli e categorie",
-        "steps": 18
+        "steps": 19
       },
       "nl": {
         "title": "Artikelen en categorieën publiceren",
-        "steps": 18
+        "steps": 19
       },
       "pt": {
         "title": "Publicação de artigos e categorias",
-        "steps": 18
+        "steps": 19
       },
       "pt-br": {
         "title": "Publicar artigos e categorias",
-        "steps": 18
+        "steps": 19
       }
     }
   },
@@ -967,35 +967,35 @@
     "languages": {
       "en": {
         "title": "Publishing Menu Items",
-        "steps": 20
+        "steps": 21
       },
       "de": {
         "title": "Menüeinträge veröffentlichen",
-        "steps": 20
+        "steps": 21
       },
       "es": {
         "title": "Publicación de elementos del menú",
-        "steps": 20
+        "steps": 21
       },
       "fr": {
         "title": "Publier des liens de menu",
-        "steps": 20
+        "steps": 21
       },
       "it": {
         "title": "Pubblicazione delle voci di menu",
-        "steps": 20
+        "steps": 21
       },
       "nl": {
         "title": "Menu-items publiceren",
-        "steps": 20
+        "steps": 21
       },
       "pt": {
         "title": "Publicar itens de menu",
-        "steps": 20
+        "steps": 21
       },
       "pt-br": {
         "title": "Publicar itens de menu",
-        "steps": 20
+        "steps": 21
       }
     }
   },
@@ -1017,35 +1017,35 @@
     "languages": {
       "en": {
         "title": "Timed Publishing",
-        "steps": 14
+        "steps": 15
       },
       "de": {
         "title": "Zeitgesteuerte Veröffentlichung",
-        "steps": 14
+        "steps": 15
       },
       "es": {
         "title": "Publicación programada",
-        "steps": 14
+        "steps": 15
       },
       "fr": {
         "title": "Publication programmée",
-        "steps": 14
+        "steps": 15
       },
       "it": {
         "title": "Pubblicazione a tempo",
-        "steps": 14
+        "steps": 15
       },
       "nl": {
         "title": "Getimede publicatie",
-        "steps": 14
+        "steps": 15
       },
       "pt": {
         "title": "Publicação temporizada",
-        "steps": 14
+        "steps": 15
       },
       "pt-br": {
         "title": "Publicação programada",
-        "steps": 14
+        "steps": 15
       }
     }
   },
@@ -1067,35 +1067,35 @@
     "languages": {
       "en": {
         "title": "Restrict Access to Articles",
-        "steps": 13
+        "steps": 14
       },
       "de": {
         "title": "Zugriff auf Beiträge einschränken",
-        "steps": 13
+        "steps": 14
       },
       "es": {
         "title": "Restringir el acceso a los artículos",
-        "steps": 13
+        "steps": 14
       },
       "fr": {
         "title": "Restreindre l'accès aux articles",
-        "steps": 13
+        "steps": 14
       },
       "it": {
         "title": "Limitare l'accesso agli articoli",
-        "steps": 13
+        "steps": 14
       },
       "nl": {
         "title": "Toegang tot artikelen beperken",
-        "steps": 13
+        "steps": 14
       },
       "pt": {
         "title": "Restringir o acesso a artigos",
-        "steps": 13
+        "steps": 14
       },
       "pt-br": {
         "title": "Restringir o acesso a artigos",
-        "steps": 13
+        "steps": 14
       }
     }
   },
@@ -1117,35 +1117,35 @@
     "languages": {
       "en": {
         "title": "Locking an Article",
-        "steps": 7
+        "steps": 8
       },
       "de": {
         "title": "Einen Beitrag sperren",
-        "steps": 7
+        "steps": 8
       },
       "es": {
         "title": "Bloqueo de un artículo",
-        "steps": 7
+        "steps": 8
       },
       "fr": {
         "title": "Verrouiller un article",
-        "steps": 7
+        "steps": 8
       },
       "it": {
         "title": "Bloccare un articolo",
-        "steps": 7
+        "steps": 8
       },
       "nl": {
         "title": "Een artikel vergrendelen",
-        "steps": 7
+        "steps": 8
       },
       "pt": {
         "title": "Trancar um artigo",
-        "steps": 7
+        "steps": 8
       },
       "pt-br": {
         "title": "Bloquear um artigo",
-        "steps": 7
+        "steps": 8
       }
     }
   },
@@ -1167,35 +1167,35 @@
     "languages": {
       "en": {
         "title": "Edit Permissions for Articles",
-        "steps": 27
+        "steps": 28
       },
       "de": {
         "title": "Bearbeitungsrechte für Beiträge",
-        "steps": 27
+        "steps": 28
       },
       "es": {
         "title": "Editar permisos de los artículos",
-        "steps": 27
+        "steps": 28
       },
       "fr": {
         "title": "Droits de modification pour les articles",
-        "steps": 27
+        "steps": 28
       },
       "it": {
         "title": "Permessi di modifica per gli articoli",
-        "steps": 27
+        "steps": 28
       },
       "nl": {
         "title": "Bewerkingsrechten voor artikelen",
-        "steps": 27
+        "steps": 28
       },
       "pt": {
         "title": "Permissões de edição para artigos",
-        "steps": 27
+        "steps": 28
       },
       "pt-br": {
         "title": "Permissões de edição para artigos",
-        "steps": 27
+        "steps": 28
       }
     }
   },
@@ -1217,35 +1217,35 @@
     "languages": {
       "en": {
         "title": "SEF URLs",
-        "steps": 6
+        "steps": 7
       },
       "de": {
         "title": "SEF-Adressen",
-        "steps": 6
+        "steps": 7
       },
       "es": {
         "title": "URLs amigables",
-        "steps": 6
+        "steps": 7
       },
       "fr": {
         "title": "URL SEF",
-        "steps": 6
+        "steps": 7
       },
       "it": {
         "title": "URL SEF",
-        "steps": 6
+        "steps": 7
       },
       "nl": {
         "title": "SEF URL's",
-        "steps": 6
+        "steps": 7
       },
       "pt": {
         "title": "URL amigáveis",
-        "steps": 6
+        "steps": 7
       },
       "pt-br": {
         "title": "URLs amigáveis (SEF)",
-        "steps": 6
+        "steps": 7
       }
     }
   },
@@ -1267,35 +1267,35 @@
     "languages": {
       "en": {
         "title": "Different URLs for Content",
-        "steps": 32
+        "steps": 33
       },
       "de": {
         "title": "Unterschiedliche URLs für Inhalte",
-        "steps": 32
+        "steps": 33
       },
       "es": {
         "title": "Diferentes URL para el contenido",
-        "steps": 32
+        "steps": 33
       },
       "fr": {
         "title": "URLs différentes pour un contenu",
-        "steps": 32
+        "steps": 33
       },
       "it": {
         "title": "Diversi URL per i contenuti",
-        "steps": 32
+        "steps": 33
       },
       "nl": {
         "title": "Verschillende URL's voor inhoud",
-        "steps": 32
+        "steps": 33
       },
       "pt": {
         "title": "URL diferentes para o conteúdo",
-        "steps": 32
+        "steps": 33
       },
       "pt-br": {
         "title": "URLs diferentes para conteúdo",
-        "steps": 32
+        "steps": 33
       }
     }
   },
@@ -1317,35 +1317,35 @@
     "languages": {
       "en": {
         "title": "Custom Module",
-        "steps": 14
+        "steps": 15
       },
       "de": {
         "title": "Eigenes Modul",
-        "steps": 14
+        "steps": 15
       },
       "es": {
         "title": "Módulo personalizado",
-        "steps": 14
+        "steps": 15
       },
       "fr": {
         "title": "Module personnalisé",
-        "steps": 14
+        "steps": 15
       },
       "it": {
         "title": "Modulo personalizzato",
-        "steps": 14
+        "steps": 15
       },
       "nl": {
         "title": "Aangepaste module",
-        "steps": 14
+        "steps": 15
       },
       "pt": {
         "title": "Módulo personalizado",
-        "steps": 14
+        "steps": 15
       },
       "pt-br": {
         "title": "Módulo personalizado",
-        "steps": 14
+        "steps": 15
       }
     }
   },
@@ -1367,35 +1367,35 @@
     "languages": {
       "en": {
         "title": "Module Display by Menu Item",
-        "steps": 21
+        "steps": 22
       },
       "de": {
         "title": "Modulanzeige nach Menüeintrag",
-        "steps": 21
+        "steps": 22
       },
       "es": {
         "title": "Visualización de módulos por elemento del menú",
-        "steps": 21
+        "steps": 22
       },
       "fr": {
         "title": "Affichage des modules par lien de menu",
-        "steps": 21
+        "steps": 22
       },
       "it": {
         "title": "Visualizzazione dei moduli per voce di menu",
-        "steps": 21
+        "steps": 22
       },
       "nl": {
         "title": "Moduleweergave per menu-item",
-        "steps": 21
+        "steps": 22
       },
       "pt": {
         "title": "Exibir módulo por item de menu",
-        "steps": 21
+        "steps": 22
       },
       "pt-br": {
         "title": "Exibição de módulo por item de menu",
-        "steps": 21
+        "steps": 22
       }
     }
   },
@@ -1417,35 +1417,35 @@
     "languages": {
       "en": {
         "title": "Submenus",
-        "steps": 28
+        "steps": 29
       },
       "de": {
         "title": "Untermenüs",
-        "steps": 28
+        "steps": 29
       },
       "es": {
         "title": "Submenús",
-        "steps": 28
+        "steps": 29
       },
       "fr": {
         "title": "Sous-menus",
-        "steps": 28
+        "steps": 29
       },
       "it": {
         "title": "Sottomenu",
-        "steps": 28
+        "steps": 29
       },
       "nl": {
         "title": "Submenu's",
-        "steps": 28
+        "steps": 29
       },
       "pt": {
         "title": "Submenus",
-        "steps": 28
+        "steps": 29
       },
       "pt-br": {
         "title": "Submenus",
-        "steps": 28
+        "steps": 29
       }
     }
   },
@@ -1467,35 +1467,35 @@
     "languages": {
       "en": {
         "title": "Split Menus",
-        "steps": 24
+        "steps": 25
       },
       "de": {
         "title": "Geteilte Menüs",
-        "steps": 24
+        "steps": 25
       },
       "es": {
         "title": "Dividir menús",
-        "steps": 24
+        "steps": 25
       },
       "fr": {
         "title": "Scinder les menus",
-        "steps": 24
+        "steps": 25
       },
       "it": {
         "title": "Dividi menu",
-        "steps": 24
+        "steps": 25
       },
       "nl": {
         "title": "Gesplitste menu's",
-        "steps": 24
+        "steps": 25
       },
       "pt": {
         "title": "Dividir menus",
-        "steps": 24
+        "steps": 25
       },
       "pt-br": {
         "title": "Dividir menus",
-        "steps": 24
+        "steps": 25
       }
     }
   },
@@ -1517,35 +1517,35 @@
     "languages": {
       "en": {
         "title": "Article Display Options Hierarchy",
-        "steps": 34
+        "steps": 35
       },
       "de": {
         "title": "Hierarchie der Beitragsanzeigeoptionen",
-        "steps": 34
+        "steps": 35
       },
       "es": {
         "title": "Jerarquía de opciones de visualización del artículo",
-        "steps": 34
+        "steps": 35
       },
       "fr": {
         "title": "Hiérarchie des paramètres d'affichage des articles",
-        "steps": 34
+        "steps": 35
       },
       "it": {
         "title": "Gerarchia delle opzioni di visualizzazione degli articoli",
-        "steps": 34
+        "steps": 35
       },
       "nl": {
         "title": "Hiërarchie van weergaveopties voor artikelen",
-        "steps": 34
+        "steps": 35
       },
       "pt": {
         "title": "Hierarquia das opções de exibição de artigos",
-        "steps": 34
+        "steps": 35
       },
       "pt-br": {
         "title": "Hierarquia das opções de exibição de artigo",
-        "steps": 34
+        "steps": 35
       }
     }
   },
@@ -1567,35 +1567,35 @@
     "languages": {
       "en": {
         "title": "Adding a New Menu",
-        "steps": 27
+        "steps": 28
       },
       "de": {
         "title": "Ein neues Menü hinzufügen",
-        "steps": 27
+        "steps": 28
       },
       "es": {
         "title": "Agregar un nuevo menú",
-        "steps": 27
+        "steps": 28
       },
       "fr": {
         "title": "Ajouter un nouveau menu",
-        "steps": 27
+        "steps": 28
       },
       "it": {
         "title": "Aggiunta di un nuovo menu",
-        "steps": 27
+        "steps": 28
       },
       "nl": {
         "title": "Een nieuw menu toevoegen",
-        "steps": 27
+        "steps": 28
       },
       "pt": {
         "title": "Adicionar um novo menu",
-        "steps": 27
+        "steps": 28
       },
       "pt-br": {
         "title": "Adicionar um novo menu",
-        "steps": 27
+        "steps": 28
       }
     }
   },
@@ -1617,35 +1617,35 @@
     "languages": {
       "en": {
         "title": "Content Tags",
-        "steps": 34
+        "steps": 35
       },
       "de": {
         "title": "Inhalts-Schlagwörter",
-        "steps": 34
+        "steps": 35
       },
       "es": {
         "title": "Etiquetas de contenido",
-        "steps": 34
+        "steps": 35
       },
       "fr": {
         "title": "Tags des contenus",
-        "steps": 34
+        "steps": 35
       },
       "it": {
         "title": "Tag dei contenuti",
-        "steps": 34
+        "steps": 35
       },
       "nl": {
         "title": "Inhoud tags",
-        "steps": 34
+        "steps": 35
       },
       "pt": {
         "title": "Etiquetas de conteúdos",
-        "steps": 34
+        "steps": 35
       },
       "pt-br": {
         "title": "Tags de conteúdo",
-        "steps": 34
+        "steps": 35
       }
     }
   },
@@ -1667,35 +1667,35 @@
     "languages": {
       "en": {
         "title": "Article Metadata",
-        "steps": 13
+        "steps": 14
       },
       "de": {
         "title": "Beitrag Metadaten",
-        "steps": 13
+        "steps": 14
       },
       "es": {
         "title": "Metadatos del artículo",
-        "steps": 13
+        "steps": 14
       },
       "fr": {
         "title": "Métadonnées de l'article",
-        "steps": 13
+        "steps": 14
       },
       "it": {
         "title": "Metadata dell'articolo",
-        "steps": 13
+        "steps": 14
       },
       "nl": {
         "title": "Artikel metagegevens",
-        "steps": 13
+        "steps": 14
       },
       "pt": {
         "title": "Metadados do artigo",
-        "steps": 13
+        "steps": 14
       },
       "pt-br": {
         "title": "Metadados do artigo",
-        "steps": 13
+        "steps": 14
       }
     }
   },
@@ -1708,7 +1708,7 @@
     "languages": {
       "en": {
         "title": "Multilingual Site: Add a Language",
-        "steps": 52
+        "steps": 53
       }
     }
   }
