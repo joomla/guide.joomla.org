@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.joomla.org/schemas/json-schema/web_assets.json",
+  "name": "mod_playgroundtour",
+  "version": "1.0.0",
+  "license": "GPL-2.0-or-later",
+  "assets": [
+    {
+      "name": "mod_playgroundtour",
+      "type": "style",
+      "uri": "mod_playgroundtour/playgroundtour.css"
+    },
+    {
+      "name": "mod_playgroundtour",
+      "type": "script",
+      "uri": "mod_playgroundtour/playgroundtour.js",
+      "attributes": {
+        "type": "module"
+      }
+    }
+  ]
+}
