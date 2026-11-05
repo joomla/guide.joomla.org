@@ -31,6 +31,7 @@ $steps  = Text::plural('MOD_PLAYGROUNDTOUR_N_STEPS', $tour['steps']);
 $id     = 'mod-playgroundtour-' . $module->id;
 $button = $params->get('display', 'poster') === 'button';
 ?>
+<h2 class="mod-playgroundtour__heading"><?php echo Text::_('MOD_PLAYGROUNDTOUR_HEADING'); ?></h2>
 <div class="mod-playgroundtour" data-playgroundtour>
     <?php if ($button) : ?>
         <button type="button" class="btn btn-primary mod-playgroundtour__button" aria-haspopup="dialog" aria-controls="<?php echo $id; ?>" data-playgroundtour-open>
