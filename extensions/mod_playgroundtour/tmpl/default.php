@@ -65,6 +65,6 @@ $button = $params->get('display', 'poster') === 'button';
                 <span class="visually-hidden"><?php echo Text::_('MOD_PLAYGROUNDTOUR_CLOSE'); ?></span>
             </button>
         </div>
-        <iframe data-src="<?php echo $link; ?>" title="<?php echo Text::_('MOD_PLAYGROUNDTOUR_FRAME'); ?>" lang="<?php echo $tour['lang']; ?>" allow="clipboard-read; clipboard-write; fullscreen"></iframe>
+        <iframe data-src="<?php echo $link; ?>" aria-label="<?php echo Text::_('MOD_PLAYGROUNDTOUR_FRAME'); ?>" lang="<?php echo $tour['lang']; ?>" allow="clipboard-read; clipboard-write; fullscreen"></iframe>
     </dialog>
 </div>
