@@ -7,6 +7,27 @@ button. The button opens a dialog of almost the whole page, with the
 The tour, the screenshot and the module's texts are in the language of the page (de-DE, es-ES, fr-FR, it-IT, nl-NL,
 pt-PT, pt-BR; English for the other languages).
 
+## For tutorial authors
+
+To show the guided tour in a tutorial, put this line in the English article, right under the Steps section (before
+the Concepts heading):
+
+```html
+<div class="playground-tour">{loadmoduleid 123}</div>
+```
+
+123 is the ID of the site's Playground Tour module (Content › Site Modules, column ID). In the editor, switch to the
+code view (Toggle Editor) to paste it.
+
+- That is all: the module finds the tour by the page's address and shows it in the page's language. On a page that
+  has no tour it shows nothing, so the line does no harm in a tutorial whose tour is not made yet.
+- Translators keep the line as it is.
+- A tour is found by the tutorial's address in every language. If an address changes (a new alias, another menu
+  item), the tour is not found any more until `tours.json` is made again.
+- A new tutorial gets a tour when the tour is made in the guided tours project: the tour itself, its translations,
+  its blueprints on the Joomla Playground and a new version of this module with the tour in `tours.json`. Until then
+  the line shows nothing.
+
 ## Settings
 
 - **Tour:** *Automatic* (the default) finds the tutorial by the page's path, in any of its languages. On pages that
