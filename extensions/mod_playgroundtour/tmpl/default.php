@@ -55,7 +55,7 @@ $button = $params->get('display', 'poster') === 'button';
             </span>
         </button>
     <?php endif; ?>
-    <p class="mod-playgroundtour__note"><?php echo Text::_('MOD_PLAYGROUNDTOUR_NOTE'); ?></p>
+    <p class="mod-playgroundtour__note"><?php echo Text::_('MOD_PLAYGROUNDTOUR_NOTE'); ?><br><?php echo Text::_('MOD_PLAYGROUNDTOUR_NOTE_START'); ?></p>
     <dialog id="<?php echo $id; ?>" class="mod-playgroundtour__dialog" aria-label="<?php echo $title; ?>">
         <div class="mod-playgroundtour__bar">
             <span class="mod-playgroundtour__title"><?php echo $title; ?></span>
